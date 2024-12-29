@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learn German Words</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="app">
+        <header>
+            <h1>Вивчення німецьких слів</h1>
+            <nav>
+                <button id="studyMode">Навчання</button>
+                <button id="practiceMode">Практика</button>
+                <button id="difficultWords">Складні слова</button>
+            </nav>
+            <div class="progress-bar">
+                <div class="progress" id="totalProgress"></div>
+            </div>
+        </header>
+
+        <main>
+            <section id="studySection" class="mode-section">
+                <div class="card">
+                    <div class="card-front">
+                        <h2 id="germanWord">Слово</h2>
+                        <button id="showTranslation">Показати переклад</button>
+                    </div>
+                    <div class="card-back hidden">
+                        <h2 id="ukrainianWord">Переклад</h2>
+                        <div class="buttons">
+                            <button id="markAsDifficult">Позначити як складне</button>
+                            <button id="nextWord">Наступне слово</button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="practiceSection" class="mode-section hidden">
+                <div class="practice-card">
+                    <h2 id="practiceWord">Слово для перекладу</h2>
+                    <div class="options">
+                        <button class="option"></button>
+                        <button class="option"></button>
+                        <button class="option"></button>
+                        <button class="option"></button>
+                    </div>
+                </div>
+            </section>
+
+            <section id="difficultSection" class="mode-section hidden">
+                <div class="difficult-words-list">
+                    <!-- Will be filled dynamically -->
+                </div>
+            </section>
+        </main>
+    </div>
+    <script src="js/app.js"></script>
+</body>
+</html>
