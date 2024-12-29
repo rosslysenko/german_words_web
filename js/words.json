@@ -1,0 +1,4362 @@
+[
+    {
+      "german": "Hallo!",
+      "translation": "Привіт!"
+    },
+    {
+      "german": "Guten Tag!",
+      "translation": "Добрий день!"
+    },
+    {
+      "german": "Entschuldigung!",
+      "translation": "Вибач (те)!"
+    },
+    {
+      "german": "Bitte",
+      "translation": "будь ласка"
+    },
+    {
+      "german": "Danke",
+      "translation": "спасибі"
+    },
+    {
+      "german": "Gern geschehen",
+      "translation": "нема за що"
+    },
+    {
+      "german": "Schade",
+      "translation": "шкода"
+    },
+    {
+      "german": "Tschüss!",
+      "translation": "Бувай!"
+    },
+    {
+      "german": "Auf Wiedersehen!",
+      "translation": "До побачення!"
+    },
+    {
+      "german": "die Leute",
+      "translation": "люди"
+    },
+    {
+      "german": "der Mensch",
+      "translation": "людина"
+    },
+    {
+      "german": "der Mann",
+      "translation": "чоловік; чоловік"
+    },
+    {
+      "german": "die Frau",
+      "translation": "жінка; дружина"
+    },
+    {
+      "german": "das Kind",
+      "translation": "дитина"
+    },
+    {
+      "german": "der Junge",
+      "translation": "хлопчик"
+    },
+    {
+      "german": "das Mädchen",
+      "translation": "дівчинка"
+    },
+    {
+      "german": "der Freund",
+      "translation": "друг"
+    },
+    {
+      "german": "der Bekannte",
+      "translation": "знайомий"
+    },
+    {
+      "german": "der Nachbar",
+      "translation": "сусід"
+    },
+    {
+      "german": "der Gast",
+      "translation": "гість"
+    },
+    {
+      "german": "der Chef",
+      "translation": "начальник; шеф"
+    },
+    {
+      "german": "der Konkurrent",
+      "translation": "конкурент"
+    },
+    {
+      "german": "der Kunde",
+      "translation": "клієнт, покупець"
+    },
+    {
+      "german": "der Kollege",
+      "translation": "колега"
+    },
+    {
+      "german": "die Familie",
+      "translation": "сім’я"
+    },
+    {
+      "german": "die Eltern",
+      "translation": "батьки"
+    },
+    {
+      "german": "der Vater",
+      "translation": "батько"
+    },
+    {
+      "german": "der Vati",
+      "translation": "тато"
+    },
+    {
+      "german": "die Mutter",
+      "translation": "мати"
+    },
+    {
+      "german": "die Mutti",
+      "translation": "мама"
+    },
+    {
+      "german": "der Sohn",
+      "translation": "син"
+    },
+    {
+      "german": "die Tochter",
+      "translation": "дочка"
+    },
+    {
+      "german": "der Bruder",
+      "translation": "брат"
+    },
+    {
+      "german": "die Schwester",
+      "translation": "сестра"
+    },
+    {
+      "german": "der Großvater",
+      "translation": "дід"
+    },
+    {
+      "german": "der Opa",
+      "translation": "дідусь"
+    },
+    {
+      "german": "die Großmutter",
+      "translation": "бабуся"
+    },
+    {
+      "german": "die Oma",
+      "translation": "бабуля"
+    },
+    {
+      "german": "der Enkel",
+      "translation": "онук"
+    },
+    {
+      "german": "die Enkelin",
+      "translation": "внучка"
+    },
+    {
+      "german": "der Schwiegervater",
+      "translation": "тесть, свекор"
+    },
+    {
+      "german": "die Schwiegermutter",
+      "translation": "теща, свекруха"
+    },
+    {
+      "german": "der Onkel",
+      "translation": "дядько"
+    },
+    {
+      "german": "die Tante",
+      "translation": "тітка"
+    },
+    {
+      "german": "der Cousin [кузен]",
+      "translation": "двоюрідний брат"
+    },
+    {
+      "german": "die Kusine",
+      "translation": "двоюрідна сестра"
+    },
+    {
+      "german": "der Neffe",
+      "translation": "племінник"
+    },
+    {
+      "german": "die Nichte",
+      "translation": "племінниця"
+    },
+    {
+      "german": "die Arbeit",
+      "translation": "робота"
+    },
+    {
+      "german": "der Geschäftsmann",
+      "translation": "бізнесмен"
+    },
+    {
+      "german": "der Lehrer",
+      "translation": "учитель"
+    },
+    {
+      "german": "der Fahrer",
+      "translation": "водій"
+    },
+    {
+      "german": "der Arbeiter",
+      "translation": "робочий"
+    },
+    {
+      "german": "der Ingenieur",
+      "translation": "інженер"
+    },
+    {
+      "german": "der Arzt",
+      "translation": "лікар"
+    },
+    {
+      "german": "der Rechtsanwalt",
+      "translation": "адвокат"
+    },
+    {
+      "german": "der Journalist",
+      "translation": "журналіст"
+    },
+    {
+      "german": "der Krankenschwester",
+      "translation": "медсестра"
+    },
+    {
+      "german": "der Verkäufer",
+      "translation": "продавець"
+    },
+    {
+      "german": "der Kellner",
+      "translation": "офіціант"
+    },
+    {
+      "german": "der Buchhalter",
+      "translation": "бухгалтер"
+    },
+    {
+      "german": "der Maler",
+      "translation": "художник"
+    },
+    {
+      "german": "der Musiker",
+      "translation": "музикант"
+    },
+    {
+      "german": "der Schauspieler",
+      "translation": "актор"
+    },
+    {
+      "german": "der Student",
+      "translation": "студент"
+    },
+    {
+      "german": "der Schüler",
+      "translation": "школяр, учень"
+    },
+    {
+      "german": "das Tier",
+      "translation": "тварина"
+    },
+    {
+      "german": "die Katze",
+      "translation": "кішка"
+    },
+    {
+      "german": "der Hund",
+      "translation": "собака"
+    },
+    {
+      "german": "der Vogel",
+      "translation": "птах"
+    },
+    {
+      "german": "das Eichhörnchen",
+      "translation": "білка"
+    },
+    {
+      "german": "der Wolf",
+      "translation": "вовк"
+    },
+    {
+      "german": "die Gans",
+      "translation": "гусак"
+    },
+    {
+      "german": "die Giraffe",
+      "translation": "жираф"
+    },
+    {
+      "german": "das Kaninchen",
+      "translation": "кролик"
+    },
+    {
+      "german": "der Hase",
+      "translation": "заєць"
+    },
+    {
+      "german": "die Kuh",
+      "translation": "корова"
+    },
+    {
+      "german": "die Ratte",
+      "translation": "щур"
+    },
+    {
+      "german": "der Fuchs",
+      "translation": "лисиця"
+    },
+    {
+      "german": "das Pferd",
+      "translation": "кінь"
+    },
+    {
+      "german": "der Frosch",
+      "translation": "жаба"
+    },
+    {
+      "german": "der Bär",
+      "translation": "ведмідь"
+    },
+    {
+      "german": "die Maus",
+      "translation": "миша"
+    },
+    {
+      "german": "der Affe",
+      "translation": "мавпа"
+    },
+    {
+      "german": "das Schwein",
+      "translation": "свиня"
+    },
+    {
+      "german": "der Elefant",
+      "translation": "слон"
+    },
+    {
+      "german": "die Ente",
+      "translation": "качка"
+    },
+    {
+      "german": "das Land",
+      "translation": "країна; сільська місцевість; земля"
+    },
+    {
+      "german": "Russland",
+      "translation": "Росія"
+    },
+    {
+      "german": "Deutschland",
+      "translation": "Німеччина"
+    },
+    {
+      "german": "Österreich",
+      "translation": "Австрія"
+    },
+    {
+      "german": "die Schweiz",
+      "translation": "Швейцарія"
+    },
+    {
+      "german": "die Stadt",
+      "translation": "місто"
+    },
+    {
+      "german": "das Haus",
+      "translation": "будинок"
+    },
+    {
+      "german": "das Gebäude",
+      "translation": "будівля"
+    },
+    {
+      "german": "der Platz",
+      "translation": "площа; місце"
+    },
+    {
+      "german": "der Eingang",
+      "translation": "вхід"
+    },
+    {
+      "german": "der Ausgang",
+      "translation": "вихід"
+    },
+    {
+      "german": "das Zentrum",
+      "translation": "центр"
+    },
+    {
+      "german": "der Hof",
+      "translation": "двір"
+    },
+    {
+      "german": "das Dach",
+      "translation": "дах"
+    },
+    {
+      "german": "der Zaun",
+      "translation": "паркан"
+    },
+    {
+      "german": "das Dorf",
+      "translation": "село, селище"
+    },
+    {
+      "german": "die Schule",
+      "translation": "школа"
+    },
+    {
+      "german": "die Universität",
+      "translation": "університет"
+    },
+    {
+      "german": "das Theater",
+      "translation": "театр"
+    },
+    {
+      "german": "die Kirche",
+      "translation": "церква"
+    },
+    {
+      "german": "das Restaurant",
+      "translation": "ресторан"
+    },
+    {
+      "german": "das Cafe",
+      "translation": "кафе"
+    },
+    {
+      "german": "das Hotel",
+      "translation": "готель"
+    },
+    {
+      "german": "die Bank",
+      "translation": "банк"
+    },
+    {
+      "german": "das Kino",
+      "translation": "кінотеатр"
+    },
+    {
+      "german": "das Krankenhaus",
+      "translation": "лікарня"
+    },
+    {
+      "german": "die Polizei",
+      "translation": "поліція"
+    },
+    {
+      "german": "das Postamt",
+      "translation": "пошта"
+    },
+    {
+      "german": "der Bahnhof",
+      "translation": "станція, вокзал"
+    },
+    {
+      "german": "der Flughafen",
+      "translation": "аеропорт"
+    },
+    {
+      "german": "das Geschäft",
+      "translation": "магазин"
+    },
+    {
+      "german": "die Apotheke",
+      "translation": "аптека"
+    },
+    {
+      "german": "der Markt",
+      "translation": "ринок"
+    },
+    {
+      "german": "das Büro",
+      "translation": "офіс"
+    },
+    {
+      "german": "die Firma",
+      "translation": "фірма"
+    },
+    {
+      "german": "der Betrieb",
+      "translation": "підприємство"
+    },
+    {
+      "german": "die Straße",
+      "translation": "вулиця"
+    },
+    {
+      "german": "der Weg",
+      "translation": "дорога"
+    },
+    {
+      "german": "die Kreuzung",
+      "translation": "перехрестя"
+    },
+    {
+      "german": "die Haltestelle",
+      "translation": "зупинка"
+    },
+    {
+      "german": "der Gehsteig",
+      "translation": "тротуар"
+    },
+    {
+      "german": "der Pfad",
+      "translation": "стежка, стежка"
+    },
+    {
+      "german": "der Garten",
+      "translation": "сад"
+    },
+    {
+      "german": "der Park",
+      "translation": "парк"
+    },
+    {
+      "german": "die Brücke",
+      "translation": "міст"
+    },
+    {
+      "german": "der Fluss",
+      "translation": "річка"
+    },
+    {
+      "german": "der Wald",
+      "translation": "ліс"
+    },
+    {
+      "german": "das Feld",
+      "translation": "поле"
+    },
+    {
+      "german": "der Berg",
+      "translation": "гора"
+    },
+    {
+      "german": "der See",
+      "translation": "озеро"
+    },
+    {
+      "german": "das Meer",
+      "translation": "море"
+    },
+    {
+      "german": "der Ozean",
+      "translation": "океан"
+    },
+    {
+      "german": "die Küste",
+      "translation": "морський берег, узбережжя"
+    },
+    {
+      "german": "der Strand",
+      "translation": "пляж"
+    },
+    {
+      "german": "der Sand",
+      "translation": "пісок"
+    },
+    {
+      "german": "die Insel",
+      "translation": "острів"
+    },
+    {
+      "german": "die Grenze",
+      "translation": "межа"
+    },
+    {
+      "german": "der Zoll",
+      "translation": "митниця"
+    },
+    {
+      "german": "der Müll",
+      "translation": "сміття"
+    },
+    {
+      "german": "die Abfälle",
+      "translation": "відходи"
+    },
+    {
+      "german": "der Stein",
+      "translation": "камінь"
+    },
+    {
+      "german": "die Pflanze",
+      "translation": "рослина"
+    },
+    {
+      "german": "der Baum",
+      "translation": "дерево"
+    },
+    {
+      "german": "das Gras",
+      "translation": "трава"
+    },
+    {
+      "german": "die Blume",
+      "translation": "квітка"
+    },
+    {
+      "german": "das Blatt",
+      "translation": "лист"
+    },
+    {
+      "german": "die Wohnung",
+      "translation": "квартира"
+    },
+    {
+      "german": "das Zimmer",
+      "translation": "кімната"
+    },
+    {
+      "german": "das Wohnzimmer",
+      "translation": "зал"
+    },
+    {
+      "german": "das Schlafzimmer",
+      "translation": "спальня"
+    },
+    {
+      "german": "das Badezimmer",
+      "translation": "ванна"
+    },
+    {
+      "german": "die Dusche",
+      "translation": "душ"
+    },
+    {
+      "german": "die Toilette",
+      "translation": "туалет"
+    },
+    {
+      "german": "die Küche",
+      "translation": "кухня"
+    },
+    {
+      "german": "der Korridor",
+      "translation": "коридор"
+    },
+    {
+      "german": "der Balkon",
+      "translation": "балкон"
+    },
+    {
+      "german": "der Fußboden",
+      "translation": "підлога"
+    },
+    {
+      "german": "die Decke",
+      "translation": "стеля; ковдра"
+    },
+    {
+      "german": "die Wand",
+      "translation": "стіна"
+    },
+    {
+      "german": "die Treppe",
+      "translation": "сходи"
+    },
+    {
+      "german": "die Tür",
+      "translation": "двері"
+    },
+    {
+      "german": "das Fenster",
+      "translation": "вікно"
+    },
+    {
+      "german": "das Fensterbrett",
+      "translation": "підвіконня"
+    },
+    {
+      "german": "der Vorhang",
+      "translation": "штора"
+    },
+    {
+      "german": "der Schalter",
+      "translation": "вимикач; віконце (кассы)"
+    },
+    {
+      "german": "die Steckdose",
+      "translation": "розетка"
+    },
+    {
+      "german": "der Wasserhahn",
+      "translation": "(водопровідний) кран"
+    },
+    {
+      "german": "das Rohr",
+      "translation": "труба"
+    },
+    {
+      "german": "der Schornstein",
+      "translation": "димова труба"
+    },
+    {
+      "german": "die Möbel",
+      "translation": "меблі"
+    },
+    {
+      "german": "der Tisch",
+      "translation": "стіл"
+    },
+    {
+      "german": "der Stuhl",
+      "translation": "стілець"
+    },
+    {
+      "german": "der Sessel",
+      "translation": "крісло"
+    },
+    {
+      "german": "die Couch [кáуч]",
+      "translation": "диван"
+    },
+    {
+      "german": "das Bett",
+      "translation": "ліжко"
+    },
+    {
+      "german": "der Schrank",
+      "translation": "шафа"
+    },
+    {
+      "german": "das Regal",
+      "translation": "полиця"
+    },
+    {
+      "german": "der Spiegel",
+      "translation": "зеркало"
+    },
+    {
+      "german": "der Teppich",
+      "translation": "килим"
+    },
+    {
+      "german": "der Kühlschrank",
+      "translation": "холодильник"
+    },
+    {
+      "german": "die Mikrowelle",
+      "translation": "мікрохвильова піч"
+    },
+    {
+      "german": "der Ofen",
+      "translation": "піч, духовка"
+    },
+    {
+      "german": "der Herd",
+      "translation": "кухонна плита"
+    },
+    {
+      "german": "die Lebensmittel",
+      "translation": "їжа, продукти"
+    },
+    {
+      "german": "das Brot",
+      "translation": "хліб"
+    },
+    {
+      "german": "die Butter",
+      "translation": "вершкове масло"
+    },
+    {
+      "german": "das Öl",
+      "translation": "рослинне масло"
+    },
+    {
+      "german": "der Käse",
+      "translation": "сир"
+    },
+    {
+      "german": "die Wurst",
+      "translation": "ковбаса"
+    },
+    {
+      "german": "das Würstchen",
+      "translation": "сосиска"
+    },
+    {
+      "german": "der Schinken",
+      "translation": "шинка"
+    },
+    {
+      "german": "das Fleisch",
+      "translation": "м’ясо"
+    },
+    {
+      "german": "das Rindfleisch",
+      "translation": "яловичина"
+    },
+    {
+      "german": "dad Schweinefleisch",
+      "translation": "свинина"
+    },
+    {
+      "german": "das Lammfleisch",
+      "translation": "баранина"
+    },
+    {
+      "german": "das Hähnchen",
+      "translation": "курка (м’ясо)"
+    },
+    {
+      "german": "das Kotelett",
+      "translation": "котлета, відбивна"
+    },
+    {
+      "german": "der Fisch",
+      "translation": "риба"
+    },
+    {
+      "german": "das Ei",
+      "translation": "яйце"
+    },
+    {
+      "german": "der Salat",
+      "translation": "салат"
+    },
+    {
+      "german": "die Pilze",
+      "translation": "гриби"
+    },
+    {
+      "german": "der Mais",
+      "translation": "кукурудза"
+    },
+    {
+      "german": "der Brei",
+      "translation": "каша"
+    },
+    {
+      "german": "die Haferflocken",
+      "translation": "вівсянка"
+    },
+    {
+      "german": "die Suppe",
+      "translation": "суп"
+    },
+    {
+      "german": "das belegte Brötchen",
+      "translation": "бутерброд"
+    },
+    {
+      "german": "der Reis",
+      "translation": "рис"
+    },
+    {
+      "german": "die Nudeln",
+      "translation": "локшина"
+    },
+    {
+      "german": "das Mehl",
+      "translation": "мука"
+    },
+    {
+      "german": "das Gewürz",
+      "translation": "спеція, прянощі"
+    },
+    {
+      "german": "der Pfeffer",
+      "translation": "перець"
+    },
+    {
+      "german": "der Salz",
+      "translation": "сіль"
+    },
+    {
+      "german": "die Zwiebel",
+      "translation": "цибуля (ріпчаста)"
+    },
+    {
+      "german": "der Knoblauch",
+      "translation": "часник"
+    },
+    {
+      "german": "die Soße",
+      "translation": "соус"
+    },
+    {
+      "german": "das Gemüse",
+      "translation": "овочі"
+    },
+    {
+      "german": "die Kartoffeln",
+      "translation": "картопля"
+    },
+    {
+      "german": "die Mohrrübe",
+      "translation": "морква"
+    },
+    {
+      "german": "die Zuckerrübe",
+      "translation": "буряк"
+    },
+    {
+      "german": "die Tomate",
+      "translation": "помідор"
+    },
+    {
+      "german": "die Gurke",
+      "translation": "огірок"
+    },
+    {
+      "german": "der Kohl",
+      "translation": "капуста"
+    },
+    {
+      "german": "die Zucchini [цукини]",
+      "translation": "кабачок"
+    },
+    {
+      "german": "die Aubergine [обэр’жинэ]",
+      "translation": "баклажан"
+    },
+    {
+      "german": "die Bohnen",
+      "translation": "боби"
+    },
+    {
+      "german": "die Erbsen",
+      "translation": "горох"
+    },
+    {
+      "german": "die Nuss",
+      "translation": "горіх"
+    },
+    {
+      "german": "das Obst",
+      "translation": "фрукти"
+    },
+    {
+      "german": "der Apfel",
+      "translation": "яблуко"
+    },
+    {
+      "german": "die Birne",
+      "translation": "груша"
+    },
+    {
+      "german": "die Banane",
+      "translation": "банан"
+    },
+    {
+      "german": "die Beere",
+      "translation": "ягода"
+    },
+    {
+      "german": "die Erdbeere",
+      "translation": "полуниця, суниця"
+    },
+    {
+      "german": "die Himbeere",
+      "translation": "малина"
+    },
+    {
+      "german": "die Kirsche",
+      "translation": "вишня"
+    },
+    {
+      "german": "die Pflaume",
+      "translation": "слива"
+    },
+    {
+      "german": "die Trauben",
+      "translation": "виноград"
+    },
+    {
+      "german": "die Aprikose",
+      "translation": "абрикос"
+    },
+    {
+      "german": "der Pfirsich",
+      "translation": "персик"
+    },
+    {
+      "german": "die Melone",
+      "translation": "диня"
+    },
+    {
+      "german": "die Wassermelone",
+      "translation": "кавун"
+    },
+    {
+      "german": "der Kürbis",
+      "translation": "гарбуз"
+    },
+    {
+      "german": "die Orange [орáнжэ]",
+      "translation": "апельсин"
+    },
+    {
+      "german": "die Mandarine",
+      "translation": "мандарин"
+    },
+    {
+      "german": "die Zitrone",
+      "translation": "лимон"
+    },
+    {
+      "german": "die Ananas",
+      "translation": "ананас"
+    },
+    {
+      "german": "der Zucker",
+      "translation": "цукор"
+    },
+    {
+      "german": "der Honig",
+      "translation": "мед"
+    },
+    {
+      "german": "die Marmelade",
+      "translation": "варення"
+    },
+    {
+      "german": "der Kuchen",
+      "translation": "торт, пиріг"
+    },
+    {
+      "german": "das Brötchen",
+      "translation": "булочка"
+    },
+    {
+      "german": "das Gebäck",
+      "translation": "печево"
+    },
+    {
+      "german": "die Süßigkeiten",
+      "translation": "цукерки, солодощі"
+    },
+    {
+      "german": "das Eis",
+      "translation": "морозиво; лід"
+    },
+    {
+      "german": "die Schokolade",
+      "translation": "шоколад"
+    },
+    {
+      "german": "das Wasser",
+      "translation": "газована вода"
+    },
+    {
+      "german": "der Saft",
+      "translation": "сік"
+    },
+    {
+      "german": "der Wein",
+      "translation": "вино"
+    },
+    {
+      "german": "der Tee",
+      "translation": "чай"
+    },
+    {
+      "german": "der Kaffee",
+      "translation": "кава"
+    },
+    {
+      "german": "die Milch",
+      "translation": "молоко"
+    },
+    {
+      "german": "die Sahne",
+      "translation": "вершки"
+    },
+    {
+      "german": "der Joghurt",
+      "translation": "йогурт"
+    },
+    {
+      "german": "der Quark",
+      "translation": "сир"
+    },
+    {
+      "german": "das Geschirr",
+      "translation": "посуд"
+    },
+    {
+      "german": "die Tasse",
+      "translation": "чашка"
+    },
+    {
+      "german": "das Glas",
+      "translation": "стакан; Скло"
+    },
+    {
+      "german": "der Teller",
+      "translation": "тарілка"
+    },
+    {
+      "german": "der Löffel",
+      "translation": "ложка"
+    },
+    {
+      "german": "die Gabel",
+      "translation": "вилка"
+    },
+    {
+      "german": "das Messer",
+      "translation": "ніж"
+    },
+    {
+      "german": "die Untertasse",
+      "translation": "блюдце"
+    },
+    {
+      "german": "die Flasche",
+      "translation": "пляшка"
+    },
+    {
+      "german": "die Serviette",
+      "translation": "серветка"
+    },
+    {
+      "german": "der Topf",
+      "translation": "каструля; горщик"
+    },
+    {
+      "german": "die Pfanne",
+      "translation": "сковорідка"
+    },
+    {
+      "german": "der Kessel",
+      "translation": "чайник; котел"
+    },
+    {
+      "german": "die Mahlzeit",
+      "translation": "прийняття їжі, їжа"
+    },
+    {
+      "german": "das Frühstück",
+      "translation": "сніданок"
+    },
+    {
+      "german": "das Mittagessen",
+      "translation": "обід"
+    },
+    {
+      "german": "das Abendessen",
+      "translation": "вечеря"
+    },
+    {
+      "german": "der Transport",
+      "translation": "транспорт"
+    },
+    {
+      "german": "das Flugzeug",
+      "translation": "літак"
+    },
+    {
+      "german": "das Auto",
+      "translation": "автомобіль"
+    },
+    {
+      "german": "die Straßenbahn",
+      "translation": "трамвай"
+    },
+    {
+      "german": "der Bus",
+      "translation": "автобус"
+    },
+    {
+      "german": "der Zug",
+      "translation": "поїзд"
+    },
+    {
+      "german": "das Schiff",
+      "translation": "корабель"
+    },
+    {
+      "german": "das Fahrrad",
+      "translation": "велосипед"
+    },
+    {
+      "german": "die Zeit",
+      "translation": "час"
+    },
+    {
+      "german": "die Minute",
+      "translation": "хвилина"
+    },
+    {
+      "german": "die Stunde",
+      "translation": "годину"
+    },
+    {
+      "german": "die Woche",
+      "translation": "тиждень"
+    },
+    {
+      "german": "das Jahr",
+      "translation": "рік"
+    },
+    {
+      "german": "das Jahrhundert",
+      "translation": "вік, століття"
+    },
+    {
+      "german": "das Mal",
+      "translation": "раз"
+    },
+    {
+      "german": "vorgestern",
+      "translation": "позавчора"
+    },
+    {
+      "german": "gestern",
+      "translation": "вчора"
+    },
+    {
+      "german": "heute",
+      "translation": "сьогодні"
+    },
+    {
+      "german": "morgen",
+      "translation": "завтра"
+    },
+    {
+      "german": "übermorgen",
+      "translation": "післязавтра"
+    },
+    {
+      "german": "der Tag",
+      "translation": "день"
+    },
+    {
+      "german": "der Morgen",
+      "translation": "ранок"
+    },
+    {
+      "german": "der Vormittag",
+      "translation": "час до полудня"
+    },
+    {
+      "german": "der Nachmittag",
+      "translation": "час після полудня"
+    },
+    {
+      "german": "der Abend",
+      "translation": "вечір"
+    },
+    {
+      "german": "die Nacht",
+      "translation": "ніч"
+    },
+    {
+      "german": "der Montag",
+      "translation": "Понеділок"
+    },
+    {
+      "german": "der Dienstag",
+      "translation": "вівторок"
+    },
+    {
+      "german": "der Mittwoch",
+      "translation": "середовище"
+    },
+    {
+      "german": "der Donnerstag",
+      "translation": "четверг"
+    },
+    {
+      "german": "der Freitag",
+      "translation": "п’ятниця"
+    },
+    {
+      "german": "der Samstag",
+      "translation": "субота"
+    },
+    {
+      "german": "der Sonntag",
+      "translation": "неділя"
+    },
+    {
+      "german": "der Monat",
+      "translation": "місяць"
+    },
+    {
+      "german": "der Januar",
+      "translation": "січень"
+    },
+    {
+      "german": "der Februar",
+      "translation": "лютий"
+    },
+    {
+      "german": "der März",
+      "translation": "березень"
+    },
+    {
+      "german": "der April",
+      "translation": "квітень"
+    },
+    {
+      "german": "der Mai",
+      "translation": "травень"
+    },
+    {
+      "german": "der Juni",
+      "translation": "червень"
+    },
+    {
+      "german": "der Juli",
+      "translation": "липень"
+    },
+    {
+      "german": "der August",
+      "translation": "серпень"
+    },
+    {
+      "german": "der September",
+      "translation": "вересень"
+    },
+    {
+      "german": "der Oktober",
+      "translation": "жовтень"
+    },
+    {
+      "german": "der November",
+      "translation": "листопад"
+    },
+    {
+      "german": "der Dezember",
+      "translation": "грудень"
+    },
+    {
+      "german": "die Jahreszeit",
+      "translation": "пора року"
+    },
+    {
+      "german": "der Frühling",
+      "translation": "весна"
+    },
+    {
+      "german": "der Sommer",
+      "translation": "літо"
+    },
+    {
+      "german": "der Herbst",
+      "translation": "осінь"
+    },
+    {
+      "german": "der Winter",
+      "translation": "зима"
+    },
+    {
+      "german": "das Fest",
+      "translation": "свято"
+    },
+    {
+      "german": "das Weihnachten",
+      "translation": "Раздво"
+    },
+    {
+      "german": "das Ostern",
+      "translation": "Великдень"
+    },
+    {
+      "german": "der Geburtstag",
+      "translation": "день народження"
+    },
+    {
+      "german": "das Formular",
+      "translation": "формуляр, бланк"
+    },
+    {
+      "german": "der Name",
+      "translation": "ім’я, прізвище; назва;"
+    },
+    {
+      "german": "der Vorname",
+      "translation": "ім’я"
+    },
+    {
+      "german": "der Nachname",
+      "translation": "прізвище"
+    },
+    {
+      "german": "der Mädchenname",
+      "translation": "дівоче прізвище"
+    },
+    {
+      "german": "der Geburtsdatum",
+      "translation": "дата народження"
+    },
+    {
+      "german": "der Geburtsort",
+      "translation": "місце народження"
+    },
+    {
+      "german": "die Adresse",
+      "translation": "адреса"
+    },
+    {
+      "german": "der Familienstand",
+      "translation": "сімейний стан"
+    },
+    {
+      "german": "ledig",
+      "translation": "холостий, незаміжня"
+    },
+    {
+      "german": "verheiratet",
+      "translation": "одружений / заміжня"
+    },
+    {
+      "german": "geschieden",
+      "translation": "розведений"
+    },
+    {
+      "german": "verwitwet",
+      "translation": "овдовілий"
+    },
+    {
+      "german": "die Sache",
+      "translation": "річ"
+    },
+    {
+      "german": "der Kugelschreiber",
+      "translation": "ручка"
+    },
+    {
+      "german": "der Bleistift",
+      "translation": "олівець"
+    },
+    {
+      "german": "das Buch",
+      "translation": "книга"
+    },
+    {
+      "german": "das Heft",
+      "translation": "зошит"
+    },
+    {
+      "german": "das Notizbuch",
+      "translation": "блокнот"
+    },
+    {
+      "german": "die Notiz",
+      "translation": "позначка, запис"
+    },
+    {
+      "german": "das Wörterbuch",
+      "translation": "словник"
+    },
+    {
+      "german": "der Buchstabe",
+      "translation": "буква"
+    },
+    {
+      "german": "der Brief",
+      "translation": "лист"
+    },
+    {
+      "german": "der Umschlag",
+      "translation": "конверт"
+    },
+    {
+      "german": "das Papier",
+      "translation": "папір"
+    },
+    {
+      "german": "die Zeitung",
+      "translation": "газета"
+    },
+    {
+      "german": "die Zeitschrift",
+      "translation": "журнал"
+    },
+    {
+      "german": "das Telefon",
+      "translation": "телефон"
+    },
+    {
+      "german": "das Handy [Хенді]",
+      "translation": "стільниковий телефон"
+    },
+    {
+      "german": "die Uhr",
+      "translation": "годинник"
+    },
+    {
+      "german": "der Kamm",
+      "translation": "гребінець"
+    },
+    {
+      "german": "der Fernseher",
+      "translation": "телевізор"
+    },
+    {
+      "german": "das Bűgeleisen",
+      "translation": "праска"
+    },
+    {
+      "german": "die Seife",
+      "translation": "мило"
+    },
+    {
+      "german": "das Radio",
+      "translation": "радіо"
+    },
+    {
+      "german": "die Tasche",
+      "translation": "сумка"
+    },
+    {
+      "german": "der Rucksack",
+      "translation": "рюкзак"
+    },
+    {
+      "german": "die Karte",
+      "translation": "карта"
+    },
+    {
+      "german": "die Postkarte",
+      "translation": "листівка"
+    },
+    {
+      "german": "der Koffer",
+      "translation": "чемодан"
+    },
+    {
+      "german": "das Geschenk",
+      "translation": "подарунок"
+    },
+    {
+      "german": "die Kamera",
+      "translation": "камера"
+    },
+    {
+      "german": "der Fotoapparat",
+      "translation": "фотоапарат"
+    },
+    {
+      "german": "die Vase",
+      "translation": "ваза"
+    },
+    {
+      "german": "das Taschentuch",
+      "translation": "носовичок"
+    },
+    {
+      "german": "der Ball",
+      "translation": "м’яч"
+    },
+    {
+      "german": "der Luftballon",
+      "translation": "повітряна куля (ик)"
+    },
+    {
+      "german": "das Spielzeug",
+      "translation": "іграшка"
+    },
+    {
+      "german": "die Fahrkarte",
+      "translation": "квиток (на поїзд)"
+    },
+    {
+      "german": "der Fahrschein",
+      "translation": "квиток (на міський транспорт)"
+    },
+    {
+      "german": "das Ticket",
+      "translation": "квиток (на літак)"
+    },
+    {
+      "german": "das Gepäck",
+      "translation": "багаж"
+    },
+    {
+      "german": "die Batterie",
+      "translation": "батарейка, акумулятор"
+    },
+    {
+      "german": "der Eimer",
+      "translation": "відро"
+    },
+    {
+      "german": "das Seil",
+      "translation": "мотузка"
+    },
+    {
+      "german": "die Tafel",
+      "translation": "дошка (шкільна)"
+    },
+    {
+      "german": "das Brett",
+      "translation": "дошка, брусок"
+    },
+    {
+      "german": "der Kalender",
+      "translation": "календар"
+    },
+    {
+      "german": "der Laptop [лептоп]",
+      "translation": "ноутбук"
+    },
+    {
+      "german": "die Bürste",
+      "translation": "щітка"
+    },
+    {
+      "german": "die Pinsel",
+      "translation": "кисть, пензлик"
+    },
+    {
+      "german": "die Tastatur",
+      "translation": "клавіатура"
+    },
+    {
+      "german": "die Taste",
+      "translation": "клавіша"
+    },
+    {
+      "german": "der Schlüssel",
+      "translation": "ключ"
+    },
+    {
+      "german": "das Rad",
+      "translation": "колесо"
+    },
+    {
+      "german": "das Lenkrad",
+      "translation": "кермо"
+    },
+    {
+      "german": "der Kofferraum",
+      "translation": "багажник"
+    },
+    {
+      "german": "das Benzin",
+      "translation": "бензин"
+    },
+    {
+      "german": "die Geldbörse",
+      "translation": "гаманець"
+    },
+    {
+      "german": "die Brieftasche",
+      "translation": "гаманець"
+    },
+    {
+      "german": "die Lampe",
+      "translation": "лампа"
+    },
+    {
+      "german": "das Lineal",
+      "translation": "лінійка"
+    },
+    {
+      "german": "die Schaufel",
+      "translation": "лопата"
+    },
+    {
+      "german": "die Maschine",
+      "translation": "машина; механізм"
+    },
+    {
+      "german": "der Hammer",
+      "translation": "молоток"
+    },
+    {
+      "german": "die Schere",
+      "translation": "ножиці"
+    },
+    {
+      "german": "die Brille",
+      "translation": "окуляри"
+    },
+    {
+      "german": "das Paket",
+      "translation": "посилка"
+    },
+    {
+      "german": "der Stock",
+      "translation": "палиця"
+    },
+    {
+      "german": "der Klebstoff",
+      "translation": "клей"
+    },
+    {
+      "german": "das Handtuch",
+      "translation": "рушник"
+    },
+    {
+      "german": "der Draht",
+      "translation": "дріт"
+    },
+    {
+      "german": "das Kabel",
+      "translation": "провід, кабель"
+    },
+    {
+      "german": "die Seite",
+      "translation": "сторінка"
+    },
+    {
+      "german": "die Taschenlampe",
+      "translation": "кишеньковий ліхтар"
+    },
+    {
+      "german": "der Kasten",
+      "translation": "ящик"
+    },
+    {
+      "german": "die Kiste",
+      "translation": "коробка"
+    },
+    {
+      "german": "das Laken",
+      "translation": "простирадло (простинь)"
+    },
+    {
+      "german": "das Kissen",
+      "translation": "подушка"
+    },
+    {
+      "german": "die Kleidung",
+      "translation": "одяг"
+    },
+    {
+      "german": "die Kleidung",
+      "translation": "одяг"
+    },
+    {
+      "german": "die Schuhe",
+      "translation": "взуття, туфлі"
+    },
+    {
+      "german": "die Stiefel",
+      "translation": "чоботи"
+    },
+    {
+      "german": "die Turnschuhe",
+      "translation": "кросівки"
+    },
+    {
+      "german": "der Mantel",
+      "translation": "пальто"
+    },
+    {
+      "german": "das Kleid",
+      "translation": "плаття"
+    },
+    {
+      "german": "der Anzug",
+      "translation": "костюм"
+    },
+    {
+      "german": "das Hemd",
+      "translation": "сорочка"
+    },
+    {
+      "german": "die Bluse",
+      "translation": "блузка"
+    },
+    {
+      "german": "der Rock",
+      "translation": "спідниця"
+    },
+    {
+      "german": "die Handschuhe",
+      "translation": "рукавички"
+    },
+    {
+      "german": "die Fäustlinge",
+      "translation": "рукавиці"
+    },
+    {
+      "german": "der Hut",
+      "translation": "капелюх"
+    },
+    {
+      "german": "die Mütze",
+      "translation": "шапка; кепка"
+    },
+    {
+      "german": "die Jacke",
+      "translation": "Куртка"
+    },
+    {
+      "german": "die Strickjacke",
+      "translation": "кофта"
+    },
+    {
+      "german": "das Sakko",
+      "translation": "піджак"
+    },
+    {
+      "german": "der Schal",
+      "translation": "шарф"
+    },
+    {
+      "german": "die Socke",
+      "translation": "носок"
+    },
+    {
+      "german": "der Pullover",
+      "translation": "светр"
+    },
+    {
+      "german": "das T-Shirt [тішёрт]",
+      "translation": "футболка"
+    },
+    {
+      "german": "die Kravatte",
+      "translation": "краватка"
+    },
+    {
+      "german": "die Hosen",
+      "translation": "штани, штани"
+    },
+    {
+      "german": "die Shorts [Шортс]",
+      "translation": "шорти"
+    },
+    {
+      "german": "die Strumpfhose",
+      "translation": "колготки"
+    },
+    {
+      "german": "die Strümpfe",
+      "translation": "панчохи"
+    },
+    {
+      "german": "die Jeans [джінз]",
+      "translation": "джинси"
+    },
+    {
+      "german": "die Kapuze",
+      "translation": "капюшон"
+    },
+    {
+      "german": "der Gürtel",
+      "translation": "ремінь"
+    },
+    {
+      "german": "die Unterwäsche",
+      "translation": "нижня білизну"
+    },
+    {
+      "german": "die Unterhose",
+      "translation": "труси"
+    },
+    {
+      "german": "der Büstenhaĺter",
+      "translation": "бюстгальтер"
+    },
+    {
+      "german": "der Körper",
+      "translation": "тіло"
+    },
+    {
+      "german": "der Kopf",
+      "translation": "голова"
+    },
+    {
+      "german": "das Gesicht",
+      "translation": "обличчя"
+    },
+    {
+      "german": "die Stirn",
+      "translation": "лоб"
+    },
+    {
+      "german": "die Nase",
+      "translation": "ніс"
+    },
+    {
+      "german": "das Ohr",
+      "translation": "вухо"
+    },
+    {
+      "german": "der Mund",
+      "translation": "рот"
+    },
+    {
+      "german": "der Hals",
+      "translation": "горло; шия"
+    },
+    {
+      "german": "das Auge",
+      "translation": "око"
+    },
+    {
+      "german": "die Augenbraue",
+      "translation": "брова"
+    },
+    {
+      "german": "die Lippen",
+      "translation": "губи"
+    },
+    {
+      "german": "der Zahn",
+      "translation": "зуб"
+    },
+    {
+      "german": "das Haar",
+      "translation": "волосся"
+    },
+    {
+      "german": "der Schnurrbart",
+      "translation": "вуси"
+    },
+    {
+      "german": "der Bart",
+      "translation": "борода"
+    },
+    {
+      "german": "die Wange",
+      "translation": "щока"
+    },
+    {
+      "german": "das Kinn",
+      "translation": "подборіддя"
+    },
+    {
+      "german": "die Schulter",
+      "translation": "плече"
+    },
+    {
+      "german": "die Brust",
+      "translation": "груди"
+    },
+    {
+      "german": "das Herz",
+      "translation": "серце"
+    },
+    {
+      "german": "der Bauch",
+      "translation": "живіт"
+    },
+    {
+      "german": "der Rücken",
+      "translation": "спина"
+    },
+    {
+      "german": "das Handgelenk",
+      "translation": "зап’ястя"
+    },
+    {
+      "german": "die Hand",
+      "translation": "рука, кисть (руки)"
+    },
+    {
+      "german": "der Arm",
+      "translation": "палець"
+    },
+    {
+      "german": "der Finger",
+      "translation": "палець (руки)"
+    },
+    {
+      "german": "der Nagel",
+      "translation": "ніготь; гвіздок"
+    },
+    {
+      "german": "der Ellenbogen",
+      "translation": "лікоть"
+    },
+    {
+      "german": "das Bein",
+      "translation": "нога"
+    },
+    {
+      "german": "das Knie",
+      "translation": "коліно"
+    },
+    {
+      "german": "der Fuß",
+      "translation": "нога, ступня;"
+    },
+    {
+      "german": "die Ferse",
+      "translation": "п’ятка"
+    },
+    {
+      "german": "die Zehe",
+      "translation": "палець (ноги)"
+    },
+    {
+      "german": "der Knochen",
+      "translation": "кістка"
+    },
+    {
+      "german": "die Gesundheit",
+      "translation": "здоров’я"
+    },
+    {
+      "german": "gesund",
+      "translation": "здоровий"
+    },
+    {
+      "german": "krank",
+      "translation": "хворий"
+    },
+    {
+      "german": "die Krankheit",
+      "translation": "хвороба"
+    },
+    {
+      "german": "das Fieber",
+      "translation": "жар, (висока) температура"
+    },
+    {
+      "german": "der Husten",
+      "translation": "кашель"
+    },
+    {
+      "german": "der Schnupfen",
+      "translation": "нежить"
+    },
+    {
+      "german": "niesen",
+      "translation": "чхати"
+    },
+    {
+      "german": "der Schmerz",
+      "translation": "біль"
+    },
+    {
+      "german": "die Kopfschmerzen",
+      "translation": "головний біль"
+    },
+    {
+      "german": "weh tun",
+      "translation": "хворіти"
+    },
+    {
+      "german": "die Grippe",
+      "translation": "грип"
+    },
+    {
+      "german": "die Erkältung",
+      "translation": "застуда"
+    },
+    {
+      "german": "die Prellung Bruise",
+      "translation": "синяк, забій"
+    },
+    {
+      "german": "das Ereignis",
+      "translation": "подія"
+    },
+    {
+      "german": "die Geburt",
+      "translation": "народження"
+    },
+    {
+      "german": "das Spiel",
+      "translation": "гра"
+    },
+    {
+      "german": "die Lektion",
+      "translation": "урок"
+    },
+    {
+      "german": "der Urlaub",
+      "translation": "відпустка"
+    },
+    {
+      "german": "die Ferien",
+      "translation": "канікули"
+    },
+    {
+      "german": "die Party [паті]",
+      "translation": "вечірка"
+    },
+    {
+      "german": "das Treffen",
+      "translation": "зустріч"
+    },
+    {
+      "german": "die Hochzeit",
+      "translation": "весілля"
+    },
+    {
+      "german": "die Verhandlungen",
+      "translation": "переговори"
+    },
+    {
+      "german": "die Reise",
+      "translation": "поїздка, подорож"
+    },
+    {
+      "german": "der Tod",
+      "translation": "смерть"
+    },
+    {
+      "german": "das Wetter",
+      "translation": "погода"
+    },
+    {
+      "german": "die Sonne",
+      "translation": "сонце"
+    },
+    {
+      "german": "der Mond",
+      "translation": "місяць"
+    },
+    {
+      "german": "der Wind",
+      "translation": "вітер"
+    },
+    {
+      "german": "der Nebel",
+      "translation": "туман"
+    },
+    {
+      "german": "der Regen",
+      "translation": "дощ"
+    },
+    {
+      "german": "der Schnee",
+      "translation": "сніг"
+    },
+    {
+      "german": "der Himmel",
+      "translation": "небо"
+    },
+    {
+      "german": "die Wolke",
+      "translation": "хмара"
+    },
+    {
+      "german": "die Luft",
+      "translation": "повітря"
+    },
+    {
+      "german": "die Temperatur",
+      "translation": "температура"
+    },
+    {
+      "german": "der Grad",
+      "translation": "градус"
+    },
+    {
+      "german": "die Kunst",
+      "translation": "мистецтво"
+    },
+    {
+      "german": "die Musik",
+      "translation": "музика"
+    },
+    {
+      "german": "das Lied",
+      "translation": "пісня"
+    },
+    {
+      "german": "die Literatur",
+      "translation": "література"
+    },
+    {
+      "german": "die Geschichte",
+      "translation": "розповідь, історія"
+    },
+    {
+      "german": "der Film",
+      "translation": "фільм; плівка"
+    },
+    {
+      "german": "die Skulptur",
+      "translation": "скульптура"
+    },
+    {
+      "german": "das Bild",
+      "translation": "картина"
+    },
+    {
+      "german": "das Foto",
+      "translation": "фото"
+    },
+    {
+      "german": "die Werbung",
+      "translation": "реклама"
+    },
+    {
+      "german": "der Kauf",
+      "translation": "покупка"
+    },
+    {
+      "german": "die Größe",
+      "translation": "розмір"
+    },
+    {
+      "german": "der Preis",
+      "translation": "ціна"
+    },
+    {
+      "german": "das Geld",
+      "translation": "гроші"
+    },
+    {
+      "german": "das Bargeld",
+      "translation": "готівкові (гроші)"
+    },
+    {
+      "german": "der Rabatt",
+      "translation": "знижка"
+    },
+    {
+      "german": "das Konto",
+      "translation": "рахунок (банківський)"
+    },
+    {
+      "german": "die Rechnung",
+      "translation": "рахунок (для оплати)"
+    },
+    {
+      "german": "das Trinkgeld",
+      "translation": "чайові"
+    },
+    {
+      "german": "das Messen",
+      "translation": "вимір"
+    },
+    {
+      "german": "die Entfernung",
+      "translation": "відстань"
+    },
+    {
+      "german": "die Distanz",
+      "translation": "істанція"
+    },
+    {
+      "german": "die Länge",
+      "translation": "довжина"
+    },
+    {
+      "german": "die Höhe",
+      "translation": "висота"
+    },
+    {
+      "german": "die Tiefe",
+      "translation": "глибина"
+    },
+    {
+      "german": "die Stärke",
+      "translation": "сила"
+    },
+    {
+      "german": "die Geschwindigkeit",
+      "translation": "швидкість"
+    },
+    {
+      "german": "die Kilometer",
+      "translation": "кілометр"
+    },
+    {
+      "german": "das Kilogramm",
+      "translation": "кілограм"
+    },
+    {
+      "german": "das Pfund",
+      "translation": "фунт"
+    },
+    {
+      "german": "das Gefühl",
+      "translation": "почуття"
+    },
+    {
+      "german": "der Spaß",
+      "translation": "веселощі"
+    },
+    {
+      "german": "die Freude",
+      "translation": "радість"
+    },
+    {
+      "german": "die Angst",
+      "translation": "страх"
+    },
+    {
+      "german": "die Traurigkeit",
+      "translation": "печаль"
+    },
+    {
+      "german": "die Leidenschaft",
+      "translation": "пристрасть, пристрасність"
+    },
+    {
+      "german": "das Vergnügen",
+      "translation": "задоволення"
+    },
+    {
+      "german": "das Glück",
+      "translation": "щастя"
+    },
+    {
+      "german": "der Frieden",
+      "translation": "світ (спокій)"
+    },
+    {
+      "german": "lieben",
+      "translation": "любити"
+    },
+    {
+      "german": "hassen",
+      "translation": "ненавидіти"
+    },
+    {
+      "german": "die Welt",
+      "translation": "світ (планета)"
+    },
+    {
+      "german": "die Welt",
+      "translation": "світ (планета)"
+    },
+    {
+      "german": "die Seele",
+      "translation": "душа"
+    },
+    {
+      "german": "das Leben",
+      "translation": "життя"
+    },
+    {
+      "german": "das Wissen",
+      "translation": "знання"
+    },
+    {
+      "german": "die Aufgabe",
+      "translation": "завдання, завдання"
+    },
+    {
+      "german": "die Übung",
+      "translation": "вправа"
+    },
+    {
+      "german": "das Problem",
+      "translation": "проблема"
+    },
+    {
+      "german": "die Gelegenheit",
+      "translation": "(сприятлива) можливість"
+    },
+    {
+      "german": "die Fähigkeit",
+      "translation": "здатність"
+    },
+    {
+      "german": "die Schönheit",
+      "translation": "краса"
+    },
+    {
+      "german": "die Gefahr",
+      "translation": "небезпека"
+    },
+    {
+      "german": "die Erfahrung",
+      "translation": "досвід"
+    },
+    {
+      "german": "das Gedächtnis",
+      "translation": "пам’ять"
+    },
+    {
+      "german": "die Erinnerung",
+      "translation": "спогад"
+    },
+    {
+      "german": "der Nutzen",
+      "translation": "користь"
+    },
+    {
+      "german": "der Vorteil",
+      "translation": "перевага"
+    },
+    {
+      "german": "die Gewohnheit",
+      "translation": "звичка"
+    },
+    {
+      "german": "der Grund",
+      "translation": "причина; грунт, земля"
+    },
+    {
+      "german": "die Konsequenz",
+      "translation": "наслідок"
+    },
+    {
+      "german": "die Bedeutung",
+      "translation": "значення"
+    },
+    {
+      "german": "das Mittel",
+      "translation": "засіб"
+    },
+    {
+      "german": "die Anstrengung",
+      "translation": "зусилля"
+    },
+    {
+      "german": "der Erfolg",
+      "translation": "успіх"
+    },
+    {
+      "german": "das Ziel",
+      "translation": "мета"
+    },
+    {
+      "german": "das Wunder",
+      "translation": "диво"
+    },
+    {
+      "german": "die Wissenschaft",
+      "translation": "наука"
+    },
+    {
+      "german": "die Sprache",
+      "translation": "мова"
+    },
+    {
+      "german": "das Wort",
+      "translation": "слово"
+    },
+    {
+      "german": "das Feuer",
+      "translation": "вогонь"
+    },
+    {
+      "german": "der Fall",
+      "translation": "випадок; справа; падіння"
+    },
+    {
+      "german": "der Umstand",
+      "translation": "обставина"
+    },
+    {
+      "german": "der Gedanke",
+      "translation": "думка"
+    },
+    {
+      "german": "die Wahl",
+      "translation": "вибір"
+    },
+    {
+      "german": "die Erlaubnis",
+      "translation": "дозвіл"
+    },
+    {
+      "german": "die Lieferung",
+      "translation": "доставка; поставка"
+    },
+    {
+      "german": "die Leistung",
+      "translation": "досягнення, успіх"
+    },
+    {
+      "german": "die Pflicht",
+      "translation": "обов’язок"
+    },
+    {
+      "german": "die Verzögerung [дилеї]",
+      "translation": "затримка, зволікання"
+    },
+    {
+      "german": "die Beziehung",
+      "translation": "відношення"
+    },
+    {
+      "german": "die Note",
+      "translation": "оцінка, відмітка, знак; нота"
+    },
+    {
+      "german": "der Fehler",
+      "translation": "помилка"
+    },
+    {
+      "german": "das Benehmen",
+      "translation": "поведінка"
+    },
+    {
+      "german": "die Einladung",
+      "translation": "запрошення"
+    },
+    {
+      "german": "die Entwicklung",
+      "translation": "розвиток"
+    },
+    {
+      "german": "die Entscheidung",
+      "translation": "рішення, прийняття рішення"
+    },
+    {
+      "german": "die Lösung",
+      "translation": "рішення (проблеми)"
+    },
+    {
+      "german": "der Rat",
+      "translation": "рада"
+    },
+    {
+      "german": "die Vereinbarung",
+      "translation": "угода; згода"
+    },
+    {
+      "german": "der Vertrag",
+      "translation": "договір"
+    },
+    {
+      "german": "die Liste",
+      "translation": "список"
+    },
+    {
+      "german": "der Streit",
+      "translation": "суперечка"
+    },
+    {
+      "german": "der Test",
+      "translation": "тест, випробування"
+    },
+    {
+      "german": "die Prüfung",
+      "translation": "іспит"
+    },
+    {
+      "german": "der Schritt",
+      "translation": "крок"
+    },
+    {
+      "german": "das Stück [пі: с]",
+      "translation": "шматок; штука"
+    },
+    {
+      "german": "der Bereich",
+      "translation": "область, сфера"
+    },
+    {
+      "german": "das Paar",
+      "translation": "пара"
+    },
+    {
+      "german": "die Oberfläche",
+      "translation": "поверхня"
+    },
+    {
+      "german": "die Ordnung",
+      "translation": "порядок"
+    },
+    {
+      "german": "die Frage",
+      "translation": "питання"
+    },
+    {
+      "german": "was",
+      "translation": "що"
+    },
+    {
+      "german": "wer",
+      "translation": "хто"
+    },
+    {
+      "german": "wo",
+      "translation": "де"
+    },
+    {
+      "german": "wohin",
+      "translation": "куди"
+    },
+    {
+      "german": "woher",
+      "translation": "звідки"
+    },
+    {
+      "german": "wie",
+      "translation": "як"
+    },
+    {
+      "german": "welcher",
+      "translation": "який"
+    },
+    {
+      "german": "warum",
+      "translation": "чому"
+    },
+    {
+      "german": "wozu",
+      "translation": "навіщо"
+    },
+    {
+      "german": "wenn",
+      "translation": "коли; якщо"
+    },
+    {
+      "german": "wie viele",
+      "translation": "скільки (+ слово у множині)"
+    },
+    {
+      "german": "wie viel",
+      "translation": "скільки (+ слово в однині)"
+    },
+    {
+      "german": "ich",
+      "translation": "я"
+    },
+    {
+      "german": "du",
+      "translation": "т"
+    },
+    {
+      "german": "er",
+      "translation": "він"
+    },
+    {
+      "german": "sie",
+      "translation": "вона"
+    },
+    {
+      "german": "es",
+      "translation": "воно"
+    },
+    {
+      "german": "wir",
+      "translation": "ми"
+    },
+    {
+      "german": "ihr",
+      "translation": "ви"
+    },
+    {
+      "german": "sie",
+      "translation": "вони"
+    },
+    {
+      "german": "Sie",
+      "translation": "Ви"
+    },
+    {
+      "german": "mein",
+      "translation": "мій"
+    },
+    {
+      "german": "dein",
+      "translation": "твій"
+    },
+    {
+      "german": "sein",
+      "translation": "його"
+    },
+    {
+      "german": "ihr",
+      "translation": "її; їх"
+    },
+    {
+      "german": "unser",
+      "translation": "наш"
+    },
+    {
+      "german": "euer",
+      "translation": "ваш"
+    },
+    {
+      "german": "Ihr",
+      "translation": "Ваш"
+    },
+    {
+      "german": "aus",
+      "translation": "з"
+    },
+    {
+      "german": "von",
+      "translation": "від; передає рід. відмінок; з (такого-то часу)"
+    },
+    {
+      "german": "seit",
+      "translation": "з (такого-то часу і понині)"
+    },
+    {
+      "german": "zu",
+      "translation": "до; занадто"
+    },
+    {
+      "german": "in",
+      "translation": "в; через (таке-то час)"
+    },
+    {
+      "german": "auf",
+      "translation": "на"
+    },
+    {
+      "german": "unter",
+      "translation": "під"
+    },
+    {
+      "german": "hinter",
+      "translation": "позаду"
+    },
+    {
+      "german": "mit",
+      "translation": "з"
+    },
+    {
+      "german": "ohne",
+      "translation": "без"
+    },
+    {
+      "german": "vor",
+      "translation": "перед, до; (Стільки-то часу) назад"
+    },
+    {
+      "german": "nach",
+      "translation": "після; в (такий-то місто або країну)"
+    },
+    {
+      "german": "zwischen",
+      "translation": "між"
+    },
+    {
+      "german": "neben",
+      "translation": "біля, близько"
+    },
+    {
+      "german": "für",
+      "translation": "для; на (таке-то час)"
+    },
+    {
+      "german": "während",
+      "translation": "під час"
+    },
+    {
+      "german": "um",
+      "translation": "навколо"
+    },
+    {
+      "german": "wegen",
+      "translation": "через"
+    },
+    {
+      "german": "über",
+      "translation": "над; про; понад"
+    },
+    {
+      "german": "gegen",
+      "translation": "проти"
+    },
+    {
+      "german": "unter",
+      "translation": "під; серед"
+    },
+    {
+      "german": "durch",
+      "translation": "через"
+    },
+    {
+      "german": "pro",
+      "translation": "(кілометрів) в (час)"
+    },
+    {
+      "german": "die Zahl",
+      "translation": "число, цифра; кількість"
+    },
+    {
+      "german": "null",
+      "translation": "нуль"
+    },
+    {
+      "german": "eins",
+      "translation": "один"
+    },
+    {
+      "german": "zwei",
+      "translation": "два"
+    },
+    {
+      "german": "drei",
+      "translation": "три"
+    },
+    {
+      "german": "vier",
+      "translation": "чотири"
+    },
+    {
+      "german": "fünf",
+      "translation": "п’ять"
+    },
+    {
+      "german": "sechs",
+      "translation": "шість"
+    },
+    {
+      "german": "sieben",
+      "translation": "сім"
+    },
+    {
+      "german": "acht",
+      "translation": "вісім"
+    },
+    {
+      "german": "neun",
+      "translation": "дев’ять"
+    },
+    {
+      "german": "zehn",
+      "translation": "десять"
+    },
+    {
+      "german": "elf",
+      "translation": "одиннадцать"
+    },
+    {
+      "german": "zwölf",
+      "translation": "дванадцать"
+    },
+    {
+      "german": "dreizehn",
+      "translation": "тринадцать"
+    },
+    {
+      "german": "vierzehn",
+      "translation": "чотирнадцать"
+    },
+    {
+      "german": "fünfzehn",
+      "translation": "пятнадцать"
+    },
+    {
+      "german": "sechzehn",
+      "translation": "шістнадцать"
+    },
+    {
+      "german": "siebzehn",
+      "translation": "сімнадцать"
+    },
+    {
+      "german": "achtzehn",
+      "translation": "вісімнадцать"
+    },
+    {
+      "german": "neunzehn",
+      "translation": "дев’ятнадцать"
+    },
+    {
+      "german": "zwanzig",
+      "translation": "двадцать"
+    },
+    {
+      "german": "dreißig",
+      "translation": "тридцять"
+    },
+    {
+      "german": "vierzig",
+      "translation": "сорок"
+    },
+    {
+      "german": "fünfzig",
+      "translation": "п’ятдесят"
+    },
+    {
+      "german": "sechzig",
+      "translation": "шістдесят"
+    },
+    {
+      "german": "siebzig",
+      "translation": "сімдесят"
+    },
+    {
+      "german": "achtzig",
+      "translation": "вісімдесят"
+    },
+    {
+      "german": "neunzig",
+      "translation": "дев’яносто"
+    },
+    {
+      "german": "hundert",
+      "translation": "сто"
+    },
+    {
+      "german": "tausend",
+      "translation": "тисяча"
+    },
+    {
+      "german": "der erste",
+      "translation": "перший"
+    },
+    {
+      "german": "der zweite",
+      "translation": "другий"
+    },
+    {
+      "german": "der dritte",
+      "translation": "третій"
+    },
+    {
+      "german": "der vierte",
+      "translation": "четвертий"
+    },
+    {
+      "german": "die Farbe",
+      "translation": "колір, фарба"
+    },
+    {
+      "german": "schwarz",
+      "translation": "чорний"
+    },
+    {
+      "german": "blau",
+      "translation": "блакитний; синій"
+    },
+    {
+      "german": "braun",
+      "translation": "коричневий"
+    },
+    {
+      "german": "grün",
+      "translation": "зелений"
+    },
+    {
+      "german": "grau",
+      "translation": "сірий"
+    },
+    {
+      "german": "rot",
+      "translation": "червоний"
+    },
+    {
+      "german": "weiß",
+      "translation": "білий"
+    },
+    {
+      "german": "gelb",
+      "translation": "yelow"
+    },
+    {
+      "german": "rosa",
+      "translation": "рожевий"
+    },
+    {
+      "german": "violett",
+      "translation": "фіолетовий"
+    },
+    {
+      "german": "alt",
+      "translation": "старий"
+    },
+    {
+      "german": "jung",
+      "translation": "молодий"
+    },
+    {
+      "german": "neu",
+      "translation": "новий"
+    },
+    {
+      "german": "groß",
+      "translation": "великий"
+    },
+    {
+      "german": "riesig",
+      "translation": "величезний"
+    },
+    {
+      "german": "klein",
+      "translation": "маленький"
+    },
+    {
+      "german": "dick",
+      "translation": "товстий; густий"
+    },
+    {
+      "german": "dünn",
+      "translation": "тонкий"
+    },
+    {
+      "german": "hungrig",
+      "translation": "голодний"
+    },
+    {
+      "german": "satt",
+      "translation": "ситий"
+    },
+    {
+      "german": "voll",
+      "translation": "повний"
+    },
+    {
+      "german": "leer",
+      "translation": "порожній"
+    },
+    {
+      "german": "gut",
+      "translation": "хороший; добрий"
+    },
+    {
+      "german": "ausgezeichnet",
+      "translation": "відмінний"
+    },
+    {
+      "german": "erstaunlich",
+      "translation": "дивовижний"
+    },
+    {
+      "german": "wunderschön",
+      "translation": "прекрасний, чудовий"
+    },
+    {
+      "german": "schlecht",
+      "translation": "поганий"
+    },
+    {
+      "german": "schrecklich",
+      "translation": "жахливий"
+    },
+    {
+      "german": "früh",
+      "translation": "ранній; рано"
+    },
+    {
+      "german": "spät",
+      "translation": "пізній; пізно"
+    },
+    {
+      "german": "vorig",
+      "translation": "останній, минулий"
+    },
+    {
+      "german": "nächst",
+      "translation": "наступний"
+    },
+    {
+      "german": "frei",
+      "translation": "вільний"
+    },
+    {
+      "german": "kostenlos",
+      "translation": "безкоштовний"
+    },
+    {
+      "german": "beschäftigt",
+      "translation": "зайнятий"
+    },
+    {
+      "german": "heiß",
+      "translation": "жаркий; гарячий"
+    },
+    {
+      "german": "warm",
+      "translation": "теплий"
+    },
+    {
+      "german": "kalt",
+      "translation": "холодний"
+    },
+    {
+      "german": "kühl",
+      "translation": "прохолодний"
+    },
+    {
+      "german": "scharf",
+      "translation": "гострий"
+    },
+    {
+      "german": "stumpf",
+      "translation": "тупий (ніж)"
+    },
+    {
+      "german": "dumm",
+      "translation": "дурний"
+    },
+    {
+      "german": "klug",
+      "translation": "розумний"
+    },
+    {
+      "german": "schön",
+      "translation": "красивий"
+    },
+    {
+      "german": "attraktiv",
+      "translation": "привабливий"
+    },
+    {
+      "german": "hübsch",
+      "translation": "симпатичний"
+    },
+    {
+      "german": "hässlich",
+      "translation": "потворний, потворний, огидний"
+    },
+    {
+      "german": "hoch",
+      "translation": "високий"
+    },
+    {
+      "german": "niedrig",
+      "translation": "низький"
+    },
+    {
+      "german": "lang",
+      "translation": "довгий; довгий"
+    },
+    {
+      "german": "kurz",
+      "translation": "короткий"
+    },
+    {
+      "german": "schwer",
+      "translation": "важкий"
+    },
+    {
+      "german": "leicht",
+      "translation": "легкий"
+    },
+    {
+      "german": "schwierig",
+      "translation": "важкий, важкий"
+    },
+    {
+      "german": "einfach",
+      "translation": "простий"
+    },
+    {
+      "german": "dunkel",
+      "translation": "темний"
+    },
+    {
+      "german": "hell",
+      "translation": "світлий"
+    },
+    {
+      "german": "teuer",
+      "translation": "дорогий (про ціну)"
+    },
+    {
+      "german": "lieb",
+      "translation": "дорогий, милий"
+    },
+    {
+      "german": "billig",
+      "translation": "дешевий"
+    },
+    {
+      "german": "arm",
+      "translation": "бідний"
+    },
+    {
+      "german": "reich",
+      "translation": "багатий"
+    },
+    {
+      "german": "gerade",
+      "translation": "прямий; прямо"
+    },
+    {
+      "german": "links",
+      "translation": "ліворуч"
+    },
+    {
+      "german": "rechts",
+      "translation": "справа"
+    },
+    {
+      "german": "falsch",
+      "translation": "неправильний"
+    },
+    {
+      "german": "schnell",
+      "translation": "швидкий"
+    },
+    {
+      "german": "langsam",
+      "translation": "повільний"
+    },
+    {
+      "german": "weich",
+      "translation": "м’який"
+    },
+    {
+      "german": "hart",
+      "translation": "твердий; жорсткий; важкий"
+    },
+    {
+      "german": "traurig",
+      "translation": "сумний"
+    },
+    {
+      "german": "froh",
+      "translation": "радісний"
+    },
+    {
+      "german": "glücklich",
+      "translation": "щасливий"
+    },
+    {
+      "german": "lustig",
+      "translation": "веселий"
+    },
+    {
+      "german": "böse",
+      "translation": "сердитий, злий"
+    },
+    {
+      "german": "höflich",
+      "translation": "важливий"
+    },
+    {
+      "german": "grob",
+      "translation": "грубий"
+    },
+    {
+      "german": "zart",
+      "translation": "ніжний"
+    },
+    {
+      "german": "mutig",
+      "translation": "сміливий"
+    },
+    {
+      "german": "scheu",
+      "translation": "сором’язливий"
+    },
+    {
+      "german": "fleißig",
+      "translation": "старанний"
+    },
+    {
+      "german": "faul",
+      "translation": "ледачий"
+    },
+    {
+      "german": "nützlich",
+      "translation": "корисний"
+    },
+    {
+      "german": "nutzlos",
+      "translation": "даремний"
+    },
+    {
+      "german": "stark",
+      "translation": "сильний; міцний"
+    },
+    {
+      "german": "schwach",
+      "translation": "слабкий"
+    },
+    {
+      "german": "laut",
+      "translation": "гучний, галасливий"
+    },
+    {
+      "german": "leise",
+      "translation": "тихий, неголосний"
+    },
+    {
+      "german": "ruhig",
+      "translation": "тихий, спокійний"
+    },
+    {
+      "german": "eng",
+      "translation": "вузький"
+    },
+    {
+      "german": "breit",
+      "translation": "широкий"
+    },
+    {
+      "german": "sauber",
+      "translation": "чистий"
+    },
+    {
+      "german": "schmutzig",
+      "translation": "брудний"
+    },
+    {
+      "german": "müde",
+      "translation": "втомлений"
+    },
+    {
+      "german": "ehrlich",
+      "translation": "чесний"
+    },
+    {
+      "german": "bequem",
+      "translation": "затишний"
+    },
+    {
+      "german": "seltsam",
+      "translation": "дивний"
+    },
+    {
+      "german": "eigen",
+      "translation": "власний"
+    },
+    {
+      "german": "schmackhaft",
+      "translation": "смачний"
+    },
+    {
+      "german": "bitter",
+      "translation": "гіркий"
+    },
+    {
+      "german": "sauer",
+      "translation": "кислий"
+    },
+    {
+      "german": "salzig",
+      "translation": "солоний"
+    },
+    {
+      "german": "bereit",
+      "translation": "готовий (щось зробити)"
+    },
+    {
+      "german": "fertig",
+      "translation": "готовий (завершений)"
+    },
+    {
+      "german": "aufmerksam",
+      "translation": "уважний"
+    },
+    {
+      "german": "vorsichtig",
+      "translation": "обережний"
+    },
+    {
+      "german": "Haupt …",
+      "translation": "головний"
+    },
+    {
+      "german": "fähig",
+      "translation": "здатний"
+    },
+    {
+      "german": "notwendig",
+      "translation": "необхідний"
+    },
+    {
+      "german": "wichtig",
+      "translation": "важливий"
+    },
+    {
+      "german": "sicher",
+      "translation": "впевнений"
+    },
+    {
+      "german": "echt",
+      "translation": "справжній, істинний; “Правда?”"
+    },
+    {
+      "german": "besser",
+      "translation": "краще; кращий"
+    },
+    {
+      "german": "best",
+      "translation": "кращий"
+    },
+    {
+      "german": "mehr",
+      "translation": "більше (за кількістю); більше"
+    },
+    {
+      "german": "meist",
+      "translation": "найбільший (за кількістю)"
+    },
+    {
+      "german": "lieber",
+      "translation": "краще, охочіше"
+    },
+    {
+      "german": "am liebsten",
+      "translation": "більш охоче за все"
+    },
+    {
+      "german": "manchmal",
+      "translation": "іноді"
+    },
+    {
+      "german": "nie",
+      "translation": "ніколи"
+    },
+    {
+      "german": "selten",
+      "translation": "рідко"
+    },
+    {
+      "german": "gewöhnlich",
+      "translation": "зазвичай"
+    },
+    {
+      "german": "oft",
+      "translation": "часто"
+    },
+    {
+      "german": "immer",
+      "translation": "завжди"
+    },
+    {
+      "german": "bald",
+      "translation": "скоро"
+    },
+    {
+      "german": "vor kurzem",
+      "translation": "недавно"
+    },
+    {
+      "german": "weit",
+      "translation": "далеко"
+    },
+    {
+      "german": "genau",
+      "translation": "точно"
+    },
+    {
+      "german": "wahrscheinlich",
+      "translation": "ймовірно"
+    },
+    {
+      "german": "vielleicht",
+      "translation": "може бути"
+    },
+    {
+      "german": "wirklich",
+      "translation": "дійсно"
+    },
+    {
+      "german": "natürlich",
+      "translation": "звичайно"
+    },
+    {
+      "german": "sicherlich",
+      "translation": "напевно, безумовно"
+    },
+    {
+      "german": "offensichtlich",
+      "translation": "очевидно"
+    },
+    {
+      "german": "besonders",
+      "translation": "особливо"
+    },
+    {
+      "german": "gern",
+      "translation": "охоче"
+    },
+    {
+      "german": "ja",
+      "translation": "так"
+    },
+    {
+      "german": "nein",
+      "translation": "немає"
+    },
+    {
+      "german": "nicht",
+      "translation": "НЕ"
+    },
+    {
+      "german": "dieser",
+      "translation": "цей"
+    },
+    {
+      "german": "jener",
+      "translation": "той"
+    },
+    {
+      "german": "viele",
+      "translation": "багато (+ слово у множині)"
+    },
+    {
+      "german": "viel",
+      "translation": "багато (+ слово в однині)"
+    },
+    {
+      "german": "wenige",
+      "translation": "мало (+ слово у множині)"
+    },
+    {
+      "german": "wenig",
+      "translation": "мало (+ слово в однині)"
+    },
+    {
+      "german": "einige",
+      "translation": "деякі"
+    },
+    {
+      "german": "mehrere",
+      "translation": "кілька"
+    },
+    {
+      "german": "jemand",
+      "translation": "хтось"
+    },
+    {
+      "german": "niemand",
+      "translation": "ніхто"
+    },
+    {
+      "german": "etwas",
+      "translation": "щось"
+    },
+    {
+      "german": "nichts",
+      "translation": "ніщо"
+    },
+    {
+      "german": "alles",
+      "translation": "все"
+    },
+    {
+      "german": "alle",
+      "translation": "все"
+    },
+    {
+      "german": "hier",
+      "translation": "тут"
+    },
+    {
+      "german": "hierher",
+      "translation": "сюди"
+    },
+    {
+      "german": "dort",
+      "translation": "там"
+    },
+    {
+      "german": "dorthin",
+      "translation": "туди"
+    },
+    {
+      "german": "da",
+      "translation": "тут; так як"
+    },
+    {
+      "german": "jetzt",
+      "translation": "зараз"
+    },
+    {
+      "german": "wieder",
+      "translation": "знову, знову"
+    },
+    {
+      "german": "dann",
+      "translation": "потім"
+    },
+    {
+      "german": "damals",
+      "translation": "тоді"
+    },
+    {
+      "german": "als",
+      "translation": "чим (при порівнянні); коли;"
+    },
+    {
+      "german": "bereits",
+      "translation": "вже"
+    },
+    {
+      "german": "nur",
+      "translation": "тільки"
+    },
+    {
+      "german": "noch",
+      "translation": "ще"
+    },
+    {
+      "german": "fast",
+      "translation": "майже"
+    },
+    {
+      "german": "sehr",
+      "translation": "дуже"
+    },
+    {
+      "german": "every",
+      "translation": "кожен"
+    },
+    {
+      "german": "jeder",
+      "translation": "кожен"
+    },
+    {
+      "german": "anderer",
+      "translation": "інший"
+    },
+    {
+      "german": "solcher",
+      "translation": "такий"
+    },
+    {
+      "german": "so",
+      "translation": "так"
+    },
+    {
+      "german": "also",
+      "translation": "отже"
+    },
+    {
+      "german": "oben",
+      "translation": "вгорі"
+    },
+    {
+      "german": "unten",
+      "translation": "внизу"
+    },
+    {
+      "german": "zusammen",
+      "translation": "разом"
+    },
+    {
+      "german": "vorwärts",
+      "translation": "вперед"
+    },
+    {
+      "german": "vorne",
+      "translation": "попереду"
+    },
+    {
+      "german": "sogar",
+      "translation": "навіть"
+    },
+    {
+      "german": "genug",
+      "translation": "досить"
+    },
+    {
+      "german": "auch",
+      "translation": "теж, також"
+    },
+    {
+      "german": "und",
+      "translation": "і"
+    },
+    {
+      "german": "oder",
+      "translation": "або"
+    },
+    {
+      "german": "aber",
+      "translation": "але"
+    },
+    {
+      "german": "jedoch",
+      "translation": "проте"
+    },
+    {
+      "german": "weil",
+      "translation": "тому що, так як"
+    },
+    {
+      "german": "deshalb",
+      "translation": "тому"
+    },
+    {
+      "german": "ob",
+      "translation": "чи"
+    },
+    {
+      "german": "obwohl",
+      "translation": "хоча"
+    },
+    {
+      "german": "dass",
+      "translation": "що"
+    },
+    {
+      "german": "sein",
+      "translation": "бути, бути"
+    },
+    {
+      "german": "tun",
+      "translation": "робити (взагалі)"
+    },
+    {
+      "german": "machen",
+      "translation": "робити (щось)"
+    },
+    {
+      "german": "haben",
+      "translation": "мати"
+    },
+    {
+      "german": "können",
+      "translation": "могти (бути в стані)"
+    },
+    {
+      "german": "dürfen",
+      "translation": "могти (мати дозвіл)"
+    },
+    {
+      "german": "wollen",
+      "translation": "хотіти"
+    },
+    {
+      "german": "mögen",
+      "translation": "любити, подобатися"
+    },
+    {
+      "german": "möchten",
+      "translation": "хотілося б"
+    },
+    {
+      "german": "müssen",
+      "translation": "бути належним (через внутрішні причини)"
+    },
+    {
+      "german": "sollen",
+      "translation": "бути належним (за зовнішніми причинами)"
+    },
+    {
+      "german": "haben zu",
+      "translation": "повинен (щось зробити)"
+    },
+    {
+      "german": "sein zu",
+      "translation": "повинен (бути зробленим)"
+    },
+    {
+      "german": "brauchen",
+      "translation": "потребувати"
+    },
+    {
+      "german": "gehen",
+      "translation": "йти"
+    },
+    {
+      "german": "fahren",
+      "translation": "їхати"
+    },
+    {
+      "german": "finden",
+      "translation": "знаходити"
+    },
+    {
+      "german": "halten",
+      "translation": "тримати; зупинятися"
+    },
+    {
+      "german": "stehen",
+      "translation": "стояти"
+    },
+    {
+      "german": "sitzen",
+      "translation": "сидіти"
+    },
+    {
+      "german": "hören",
+      "translation": "чути, слухати"
+    },
+    {
+      "german": "gewinnen",
+      "translation": "перемагати, вигравати"
+    },
+    {
+      "german": "erhalten",
+      "translation": "отримувати (офіц.)"
+    },
+    {
+      "german": "bekommen",
+      "translation": "отримувати"
+    },
+    {
+      "german": "kriegen",
+      "translation": "отримувати (розм.)"
+    },
+    {
+      "german": "kommen",
+      "translation": "приходити, приїжджати"
+    },
+    {
+      "german": "werden",
+      "translation": "ставати; передає майбутній час; передає пасивний стан"
+    },
+    {
+      "german": "laufen",
+      "translation": "бігти"
+    },
+    {
+      "german": "sehen",
+      "translation": "бачити"
+    },
+    {
+      "german": "schreiben",
+      "translation": "писати"
+    },
+    {
+      "german": "fallen",
+      "translation": "падати"
+    },
+    {
+      "german": "tragen",
+      "translation": "носити"
+    },
+    {
+      "german": "nehmen",
+      "translation": "брати"
+    },
+    {
+      "german": "geben",
+      "translation": "давати"
+    },
+    {
+      "german": "schenken",
+      "translation": "дарувати"
+    },
+    {
+      "german": "entschuldigen",
+      "translation": "прощати"
+    },
+    {
+      "german": "vergessen",
+      "translation": "забувати"
+    },
+    {
+      "german": "essen",
+      "translation": "їсти"
+    },
+    {
+      "german": "liegen",
+      "translation": "лежати"
+    },
+    {
+      "german": "legen",
+      "translation": "класти"
+    },
+    {
+      "german": "lügen",
+      "translation": "брехати"
+    },
+    {
+      "german": "führen",
+      "translation": "вести"
+    },
+    {
+      "german": "füttern",
+      "translation": "годувати"
+    },
+    {
+      "german": "sagen",
+      "translation": "сказати"
+    },
+    {
+      "german": "bezahlen",
+      "translation": "оплачувати"
+    },
+    {
+      "german": "trinken",
+      "translation": "пити"
+    },
+    {
+      "german": "schwimmen",
+      "translation": "плавати"
+    },
+    {
+      "german": "singen",
+      "translation": "співати"
+    },
+    {
+      "german": "beginnen",
+      "translation": "починати"
+    },
+    {
+      "german": "klingen",
+      "translation": "дзвеніти"
+    },
+    {
+      "german": "rufen",
+      "translation": "кликати; кричати"
+    },
+    {
+      "german": "anrufen",
+      "translation": "дзвонити"
+    },
+    {
+      "german": "sinken",
+      "translation": "опускатися; занурюватися"
+    },
+    {
+      "german": "stinken",
+      "translation": "смердіти"
+    },
+    {
+      "german": "fliegen",
+      "translation": "літати"
+    },
+    {
+      "german": "wissen",
+      "translation": "знати"
+    },
+    {
+      "german": "kennen",
+      "translation": "знати, бути знайомим"
+    },
+    {
+      "german": "zeichnen",
+      "translation": "малювати, креслити"
+    },
+    {
+      "german": "malen",
+      "translation": "малювати"
+    },
+    {
+      "german": "werfen",
+      "translation": "кидати, кидати"
+    },
+    {
+      "german": "wachsen",
+      "translation": "рости"
+    },
+    {
+      "german": "blasen",
+      "translation": "дути"
+    },
+    {
+      "german": "sprechen",
+      "translation": "розмовляти, говорити"
+    },
+    {
+      "german": "wählen",
+      "translation": "вибирати"
+    },
+    {
+      "german": "wecken",
+      "translation": "будити"
+    },
+    {
+      "german": "brechen",
+      "translation": "ламати"
+    },
+    {
+      "german": "zeigen",
+      "translation": "показувати"
+    },
+    {
+      "german": "schneiden",
+      "translation": "різати"
+    },
+    {
+      "german": "setzen, sich",
+      "translation": "сідати"
+    },
+    {
+      "german": "kosten",
+      "translation": "коштувати"
+    },
+    {
+      "german": "lassen",
+      "translation": "дозволяти; залишати"
+    },
+    {
+      "german": "schließen",
+      "translation": "закривати"
+    },
+    {
+      "german": "schlagen",
+      "translation": "ударяти, бити"
+    },
+    {
+      "german": "lesen",
+      "translation": "читати"
+    },
+    {
+      "german": "senden",
+      "translation": "посилати"
+    },
+    {
+      "german": "verbringen",
+      "translation": "проводити (час)"
+    },
+    {
+      "german": "leihen",
+      "translation": "позичити"
+    },
+    {
+      "german": "bauen",
+      "translation": "будувати"
+    },
+    {
+      "german": "fühlen",
+      "translation": "відчувати"
+    },
+    {
+      "german": "treffen",
+      "translation": "зустрічати; влучити в ціль)"
+    },
+    {
+      "german": "schlafen",
+      "translation": "спати"
+    },
+    {
+      "german": "verlassen",
+      "translation": "залишати"
+    },
+    {
+      "german": "kaufen",
+      "translation": "купувати"
+    },
+    {
+      "german": "bringen",
+      "translation": "приносити, привозити"
+    },
+    {
+      "german": "lehren",
+      "translation": "вчити, навчати"
+    },
+    {
+      "german": "denken",
+      "translation": "думати"
+    },
+    {
+      "german": "kämpfen",
+      "translation": "боротися"
+    },
+    {
+      "german": "fangen",
+      "translation": "ловити"
+    },
+    {
+      "german": "befürchten",
+      "translation": "боятися, побоюватися"
+    },
+    {
+      "german": "interessieren, sich",
+      "translation": "цікавитися"
+    },
+    {
+      "german": "überraschen",
+      "translation": "дивувати"
+    },
+    {
+      "german": "aufstehen",
+      "translation": "вставати"
+    },
+    {
+      "german": "ziehen",
+      "translation": "тягнути; переміщатися"
+    },
+    {
+      "german": "anziehen",
+      "translation": "надягати"
+    },
+    {
+      "german": "ausziehen",
+      "translation": "знімати (одяг)"
+    },
+    {
+      "german": "leben",
+      "translation": "жити"
+    },
+    {
+      "german": "wohnen",
+      "translation": "проживати"
+    },
+    {
+      "german": "arbeiten",
+      "translation": "працювати"
+    },
+    {
+      "german": "fernsehen",
+      "translation": "дивитися телевізор"
+    },
+    {
+      "german": "waschen",
+      "translation": "мити, cтірать"
+    },
+    {
+      "german": "rasieren, sich",
+      "translation": "голитися"
+    },
+    {
+      "german": "versuchen",
+      "translation": "намагатися, намагатися"
+    },
+    {
+      "german": "feiern",
+      "translation": "святкувати"
+    },
+    {
+      "german": "lächeln",
+      "translation": "посміхатися"
+    },
+    {
+      "german": "lachen",
+      "translation": "сміятися"
+    },
+    {
+      "german": "weinen",
+      "translation": "плакати"
+    },
+    {
+      "german": "lernen",
+      "translation": "вчити (ся)"
+    },
+    {
+      "german": "studieren",
+      "translation": "вчитися (у вузі); вивчати"
+    },
+    {
+      "german": "ändern",
+      "translation": "(з) міняти"
+    },
+    {
+      "german": "öffnen",
+      "translation": "відкривати"
+    },
+    {
+      "german": "tanzen",
+      "translation": "танцювати"
+    },
+    {
+      "german": "fragen",
+      "translation": "питати"
+    },
+    {
+      "german": "bitten",
+      "translation": "просити"
+    },
+    {
+      "german": "bieten",
+      "translation": "пропонувати"
+    },
+    {
+      "german": "antworten",
+      "translation": "відповідати"
+    },
+    {
+      "german": "sammeln",
+      "translation": "збирати"
+    },
+    {
+      "german": "gefallen",
+      "translation": "подобатися"
+    },
+    {
+      "german": "kochen",
+      "translation": "варити; готувати"
+    },
+    {
+      "german": "backen",
+      "translation": "піч"
+    },
+    {
+      "german": "riechen",
+      "translation": "пахнути; нюхати"
+    },
+    {
+      "german": "warten",
+      "translation": "чекати"
+    },
+    {
+      "german": "erwarten",
+      "translation": "очікувати"
+    },
+    {
+      "german": "danken",
+      "translation": "дякувати"
+    },
+    {
+      "german": "spielen",
+      "translation": "грати"
+    },
+    {
+      "german": "rauchen",
+      "translation": "курити"
+    },
+    {
+      "german": "wünschen",
+      "translation": "бажати"
+    },
+    {
+      "german": "schreien",
+      "translation": "кричати"
+    },
+    {
+      "german": "träumen",
+      "translation": "мріяти; бачити сон"
+    },
+    {
+      "german": "hoffen",
+      "translation": "сподіватися"
+    },
+    {
+      "german": "erinnern, sich",
+      "translation": "згадувати"
+    },
+    {
+      "german": "erinnern",
+      "translation": "нагадувати"
+    },
+    {
+      "german": "genießen",
+      "translation": "насолоджуватися; користуватися"
+    },
+    {
+      "german": "erklären",
+      "translation": "пояснювати"
+    },
+    {
+      "german": "bleiben",
+      "translation": "залишатися"
+    },
+    {
+      "german": "erholen, sich",
+      "translation": "відпочивати"
+    },
+    {
+      "german": "abbiegen",
+      "translation": "повернути"
+    },
+    {
+      "german": "heben",
+      "translation": "піднімати"
+    },
+    {
+      "german": "glauben",
+      "translation": "вірити, думати"
+    },
+    {
+      "german": "helfen",
+      "translation": "допомагати"
+    },
+    {
+      "german": "bestellen",
+      "translation": "замовляти"
+    },
+    {
+      "german": "befehlen",
+      "translation": "наказувати"
+    },
+    {
+      "german": "besuchen",
+      "translation": "відвідувати"
+    },
+    {
+      "german": "prüfen",
+      "translation": "перевіряти"
+    },
+    {
+      "german": "springen",
+      "translation": "стрибати"
+    },
+    {
+      "german": "reisen",
+      "translation": "подорожувати"
+    },
+    {
+      "german": "entscheiden",
+      "translation": "вирішувати, приймати рішення"
+    },
+    {
+      "german": "lösen",
+      "translation": "вирішувати (проблему); розчиняти"
+    },
+    {
+      "german": "stimmen",
+      "translation": "бути правильним, вірним"
+    },
+    {
+      "german": "zustimmen",
+      "translation": "погоджуватися"
+    },
+    {
+      "german": "retten",
+      "translation": "рятувати"
+    },
+    {
+      "german": "speichern",
+      "translation": "зберігати, накопичувати"
+    },
+    {
+      "german": "sparen",
+      "translation": "економити, збирати"
+    },
+    {
+      "german": "streiten",
+      "translation": "сперечатися"
+    },
+    {
+      "german": "zählen",
+      "translation": "вважати"
+    },
+    {
+      "german": "sorgen, sich",
+      "translation": "турбуватися"
+    },
+    {
+      "german": "scherzen",
+      "translation": "жартувати"
+    },
+    {
+      "german": "bewegen, sich",
+      "translation": "рухатися"
+    },
+    {
+      "german": "passen",
+      "translation": "відповідати, підходити"
+    },
+    {
+      "german": "sterben",
+      "translation": "вмирати"
+    },
+    {
+      "german": "beeinflussen",
+      "translation": "впливати"
+    },
+    {
+      "german": "unterstützen",
+      "translation": "підтримувати"
+    },
+    {
+      "german": "beschreiben",
+      "translation": "описувати"
+    },
+    {
+      "german": "bestrafen",
+      "translation": "карати"
+    },
+    {
+      "german": "vorhaben",
+      "translation": "мати намір"
+    },
+    {
+      "german": "klagen",
+      "translation": "скаржитися"
+    },
+    {
+      "german": "vermeiden",
+      "translation": "уникати"
+    },
+    {
+      "german": "zurückkehren",
+      "translation": "повертатися"
+    },
+    {
+      "german": "stören",
+      "translation": "турбувати, заважати"
+    },
+    {
+      "german": "vorstellen",
+      "translation": "представляти, знайомити"
+    },
+    {
+      "german": "kennenlernen",
+      "translation": "дізнаватися, знайомитися"
+    },
+    {
+      "german": "überzeugen",
+      "translation": "переконувати"
+    },
+    {
+      "german": "genehmigen",
+      "translation": "дозволяти, санкціонувати, схвалювати"
+    },
+    {
+      "german": "schätzen",
+      "translation": "цінувати"
+    }
+  ]
