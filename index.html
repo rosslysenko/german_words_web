@@ -30,12 +30,19 @@
                     <div class="card-back hidden">
                         <h2 id="ukrainianWord">Переклад</h2>
                         <div class="buttons">
+                            <button id="markAsDifficult">Позначити як складне</button>
                             <button id="nextWord">Наступне слово</button>
                         </div>
                     </div>
                 </div>
             </section>
 
+            <div class="settings">
+                <button id="exportProgress">Зберегти прогрес</button>
+                <input type="file" id="importProgress" accept=".json" style="display: none">
+                <button id="importProgressBtn">Завантажити прогрес</button>
+            </div>
+            
             <section id="practiceSection" class="mode-section hidden">
                 <div class="practice-card">
                     <h2 id="practiceWord">Слово для перекладу</h2>

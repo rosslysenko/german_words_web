@@ -7,9 +7,72 @@ class WordsManager {
         this.progress = JSON.parse(localStorage.getItem('progress')) || {};
     }
 
+    exportProgress() {
+        try {
+            // Prepare the data
+            const data = {
+                difficultWords: Array.from(this.difficultWords),
+                progress: this.progress
+            };
+
+            // Create the blob with proper MIME type
+            const blob = new Blob([JSON.stringify(data, null, 2)], {
+                type: 'application/json;charset=utf-8'
+            });
+
+            // Create URL
+            const url = URL.createObjectURL(blob);
+            
+            // Create and configure download link
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'german-words-progress.json'; // This sets the filename
+            
+            // Trigger download
+            document.body.appendChild(a);
+            a.click();
+            
+            // Cleanup
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+        } catch (error) {
+            console.error('Export failed:', error);
+            alert('Помилка при експорті: ' + error.message);
+        }
+    }
+
+    importProgress(file) {
+        return new Promise((resolve, reject) => {
+            const reader = new FileReader();
+            reader.onload = (e) => {
+                try {
+                    const data = JSON.parse(e.target.result);
+                    this.difficultWords = new Set(data.difficultWords);
+                    this.progress = data.progress;
+                    
+                    localStorage.setItem('difficultWords', JSON.stringify(Array.from(this.difficultWords)));
+                    localStorage.setItem('progress', JSON.stringify(this.progress));
+                    
+                    resolve();
+                } catch (error) {
+                    reject(error);
+                }
+            };
+            reader.readAsText(file);
+        });
+    }
+
     async loadWords() {
-        const response = await fetch('js/words.json');
-        this.words = await response.json();
+        try {
+            const response = await fetch('js/words.json');
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+            this.words = await response.json();
+        } catch (error) {
+            console.error('Failed to load words:', error);
+            alert('Помилка при завантаженні слів: ' + error.message);
+        }
     }
 
     getCurrentWord() {
@@ -21,7 +84,6 @@ class WordsManager {
         localStorage.setItem('difficultWords', JSON.stringify([...this.difficultWords]));
     }
 
-    // Track progress for each word
     updateProgress(wordId, isCorrect) {
         if (!this.progress[wordId]) {
             this.progress[wordId] = { correct: 0, total: 0 };
@@ -33,7 +95,6 @@ class WordsManager {
         localStorage.setItem('progress', JSON.stringify(this.progress));
     }
 
-    // Calculate total progress percentage
     getProgress() {
         const totalWords = this.words.length;
         const learnedWords = Object.values(this.progress).filter(p => 
@@ -80,6 +141,27 @@ class UI {
             const currentWord = this.wordsManager.getCurrentWord();
             this.wordsManager.markAsDifficult(currentWord.id);
         });
+
+        document.getElementById('exportProgress').addEventListener('click', () => {
+            this.wordsManager.exportProgress();
+        });
+
+        document.getElementById('importProgressBtn').addEventListener('click', () => {
+            document.getElementById('importProgress').click();
+        });
+
+        document.getElementById('importProgress').addEventListener('change', async (e) => {
+            if (e.target.files.length > 0) {
+                try {
+                    await this.wordsManager.importProgress(e.target.files[0]);
+                    this.updateProgress();
+                    alert('Прогрес успішно завантажено!');
+                } catch (error) {
+                    console.error('Import failed:', error);
+                    alert('Помилка при завантаженні прогресу: ' + error.message);
+                }
+            }
+        });
     }
 
     showSection(section) {
@@ -105,13 +187,17 @@ class UI {
 
     updateCard() {
         const word = this.wordsManager.getCurrentWord();
-        document.getElementById('germanWord').textContent = word.german;
-        document.getElementById('ukrainianWord').textContent = word.ukrainian;
-        document.querySelector('.card-back').classList.add('hidden');
+        if (word) {
+            document.getElementById('germanWord').textContent = word.german;
+            document.getElementById('ukrainianWord').textContent = word.ukrainian;
+            document.querySelector('.card-back').classList.add('hidden');
+        }
     }
 
     startPractice() {
         const word = this.wordsManager.getCurrentWord();
+        if (!word) return;
+
         const options = this.getRandomOptions(word);
         
         document.getElementById('practiceWord').textContent = word.german;
@@ -188,11 +274,16 @@ class UI {
 
 // Initialize application
 async function initApp() {
-    const wordsManager = new WordsManager();
-    await wordsManager.loadWords();
-    const ui = new UI(wordsManager);
-    ui.showSection('study');
-    ui.updateProgress();
+    try {
+        const wordsManager = new WordsManager();
+        await wordsManager.loadWords();
+        const ui = new UI(wordsManager);
+        ui.showSection('study');
+        ui.updateProgress();
+    } catch (error) {
+        console.error('Failed to initialize app:', error);
+        alert('Помилка при ініціалізації додатку: ' + error.message);
+    }
 }
 
 document.addEventListener('DOMContentLoaded', initApp);
