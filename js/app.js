@@ -268,7 +268,10 @@ class UI {
 
     updateProgress() {
         const progress = this.wordsManager.getProgress();
-        this.progressBar.style.width = `${progress}%`;
+        const progressElement = this.progressBar;
+        const progressText = document.getElementById('progressText');
+        progressElement.style.width = `${progress}%`;
+        progressText.textContent = `${Math.round(progress)}%`;
     }
 }
 
