@@ -2,9 +2,15 @@
 class WordsManager {
     constructor() {
         this.words = [];
-        this.currentIndex = 0;
+        this.currentIndex = parseInt(localStorage.getItem('currentIndex'), 10) || 0; // Restore the current word index
         this.difficultWords = new Set(JSON.parse(localStorage.getItem('difficultWords')) || []);
         this.progress = JSON.parse(localStorage.getItem('progress')) || {};
+    }
+
+    // Save the current index to localStorage
+    setCurrentIndex(index) {
+        this.currentIndex = index;
+        localStorage.setItem('currentIndex', this.currentIndex);
     }
 
     exportProgress() {
@@ -22,16 +28,16 @@ class WordsManager {
 
             // Create URL
             const url = URL.createObjectURL(blob);
-            
+
             // Create and configure download link
             const a = document.createElement('a');
             a.href = url;
             a.download = 'german-words-progress.json'; // This sets the filename
-            
+
             // Trigger download
             document.body.appendChild(a);
             a.click();
-            
+
             // Cleanup
             document.body.removeChild(a);
             URL.revokeObjectURL(url);
@@ -49,10 +55,10 @@ class WordsManager {
                     const data = JSON.parse(e.target.result);
                     this.difficultWords = new Set(data.difficultWords);
                     this.progress = data.progress;
-                    
+
                     localStorage.setItem('difficultWords', JSON.stringify(Array.from(this.difficultWords)));
                     localStorage.setItem('progress', JSON.stringify(this.progress));
-                    
+
                     resolve();
                 } catch (error) {
                     reject(error);
@@ -97,7 +103,7 @@ class WordsManager {
 
     getProgress() {
         const totalWords = this.words.length;
-        const learnedWords = Object.values(this.progress).filter(p => 
+        const learnedWords = Object.values(this.progress).filter(p =>
             (p.correct / p.total) >= 0.8
         ).length;
         return (learnedWords / totalWords) * 100;
@@ -117,7 +123,7 @@ class UI {
         this.practiceSection = document.getElementById('practiceSection');
         this.difficultSection = document.getElementById('difficultSection');
         this.progressBar = document.getElementById('totalProgress');
-        
+
         this.studyModeBtn = document.getElementById('studyMode');
         this.practiceModeBtn = document.getElementById('practiceMode');
         this.difficultWordsBtn = document.getElementById('difficultWords');
@@ -127,13 +133,14 @@ class UI {
         this.studyModeBtn.addEventListener('click', () => this.showSection('study'));
         this.practiceModeBtn.addEventListener('click', () => this.showSection('practice'));
         this.difficultWordsBtn.addEventListener('click', () => this.showSection('difficult'));
-        
+
         document.getElementById('showTranslation').addEventListener('click', () => {
             document.querySelector('.card-back').classList.remove('hidden');
         });
 
         document.getElementById('nextWord').addEventListener('click', () => {
-            this.wordsManager.currentIndex = (this.wordsManager.currentIndex + 1) % this.wordsManager.words.length;
+            const newIndex = (this.wordsManager.currentIndex + 1) % this.wordsManager.words.length;
+            this.wordsManager.setCurrentIndex(newIndex); // Save the updated index
             this.updateCard();
         });
 
@@ -155,7 +162,7 @@ class UI {
                 try {
                     await this.wordsManager.importProgress(e.target.files[0]);
                     this.updateProgress();
-                    alert('Прогрес успішно завантажено!');
+                    alert('Ваш прогрес успішно завантажено!');
                 } catch (error) {
                     console.error('Import failed:', error);
                     alert('Помилка при завантаженні прогресу: ' + error.message);
@@ -199,10 +206,10 @@ class UI {
         if (!word) return;
 
         const options = this.getRandomOptions(word);
-        
+
         document.getElementById('practiceWord').textContent = word.german;
         const optionButtons = document.querySelectorAll('.option');
-        
+
         options.forEach((option, index) => {
             optionButtons[index].textContent = option.ukrainian;
             optionButtons[index].onclick = () => {
@@ -219,7 +226,7 @@ class UI {
         const wordsCopy = [...this.wordsManager.words];
         const index = wordsCopy.findIndex(w => w.id === correctWord.id);
         wordsCopy.splice(index, 1);
-        
+
         while (options.length < 4) {
             const randomIndex = Math.floor(Math.random() * wordsCopy.length);
             options.push(wordsCopy[randomIndex]);
@@ -242,10 +249,11 @@ class UI {
         resultElement.className = `practice-result ${isCorrect ? 'correct' : 'incorrect'}`;
         resultElement.textContent = isCorrect ? 'Правильно!' : 'Неправильно!';
         this.practiceSection.appendChild(resultElement);
-        
+
         setTimeout(() => {
             resultElement.remove();
-            this.wordsManager.currentIndex = (this.wordsManager.currentIndex + 1) % this.wordsManager.words.length;
+            const newIndex = (this.wordsManager.currentIndex + 1) % this.wordsManager.words.length;
+            this.wordsManager.setCurrentIndex(newIndex); // Save the updated index
             this.startPractice();
         }, 1500);
     }
@@ -253,7 +261,7 @@ class UI {
     showDifficultWords() {
         const difficultWordsList = document.querySelector('.difficult-words-list');
         difficultWordsList.innerHTML = '';
-        
+
         this.wordsManager.words
             .filter(word => this.wordsManager.difficultWords.has(word.id))
             .forEach(word => {
