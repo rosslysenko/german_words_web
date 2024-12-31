@@ -127,6 +127,9 @@ class UI {
         this.studyModeBtn = document.getElementById('studyMode');
         this.practiceModeBtn = document.getElementById('practiceMode');
         this.difficultWordsBtn = document.getElementById('difficultWords');
+
+        // Initialize speak button
+        this.speakButton = document.getElementById('speakWord');
     }
 
     bindEvents() {
@@ -169,6 +172,21 @@ class UI {
                 }
             }
         });
+
+        // Add event listener for speak button
+        this.speakButton.addEventListener('click', () => this.speakCurrentWord());
+    }
+
+    // Method to speak the current German word
+    speakCurrentWord() {
+        const word = this.wordsManager.getCurrentWord();
+        if (word && word.german) {
+            const utterance = new SpeechSynthesisUtterance(word.german);
+            utterance.lang = 'de-DE'; // Set German language
+            speechSynthesis.speak(utterance);
+        } else {
+            alert('No word available for pronunciation.');
+        }
     }
 
     showSection(section) {
