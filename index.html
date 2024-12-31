@@ -1,25 +1,35 @@
 <!DOCTYPE html>
 <html lang="uk">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Learn German Words</title>
     <link rel="stylesheet" href="css/styles.css">
 </head>
+
 <body>
     <div class="app">
         <header>
             <div class="info-container">
                 <button id="infoButton" class="info-icon">ℹ️</button>
-              </div>
-              
-              <div id="infoModal" class="modal hidden">
+            </div>
+
+            <div id="infoModal" class="modal hidden">
                 <div class="modal-content">
-                  <span id="closeModal" class="close-button">&times;</span>
-                  <p>Here is some informational text!</p>
+                    <span id="closeModal" class="close-button">&times;</span>
+                    <p>Дослідження, пов'язані з вивченням частотності вживання слів у мові показують, що у 80% повсякденних розмов використовується невеликий запас слів.
+                        <b>Майкл Вест («A General Service List of English Words»), опубліковане 1953 року.</b>
+                        Майкл Вест розробив список часто використовуваних англійських слів (General Service List), який включає близько 2000 слів. Він показав, що більшість розмов і текстів покриваються відносно невеликим словниковим запасом.
+                        <b>Роботи Джорджа Кіпарського та статистичні дослідження лінгвістів 20-го століття.</b>
+                        Ці дослідження виявили, що в будь-якій мові найбільш частотні 1000-2000 слів покривають значну частину повсякденного спілкування.
+                        <b>Принцип Зіпфа («Zipf's Law»).</b>
+                        Це математичний принцип, згідно з яким частотність слів у мові розподіляється нерівномірно: невелика кількість слів трапляється дуже часто, а решта набагато рідше.</p>
+                    <p>Ці дослідження показують, що вивчення найбільш часто вживаних слів мови є найбільш ефективним способом підвищення рівня володіння мовою. Цей проект містить 1125 найбільш вживаних слів, та допоможе вам вивчити німецьку.</p>
+                    <p>Для того, щоб зберегти свій прогрес та вчитися на декількох пристроях, ви можете зберегти його локально, натиснувши кнопку "Зберегти прогрес" і передати його на інші свої пристрої та відповідно завантажити його, натиснувши кнопку "Завантажити прогрес".</p>
                 </div>
-              </div>
-              
+            </div>
+
             <h1>Вчу німецькі слова</h1>
             <nav>
                 <button id="studyMode">Навчання</button>
@@ -55,7 +65,7 @@
                 <input type="file" id="importProgress" accept=".json" style="display: none">
                 <button id="importProgressBtn">Завантажити прогрес</button>
             </div>
-            
+
             <section id="practiceSection" class="mode-section hidden">
                 <div class="practice-card">
                     <h2 id="practiceWord">Слово для перекладу</h2>
@@ -77,4 +87,5 @@
     </div>
     <script src="js/app.js"></script>
 </body>
+
 </html>
