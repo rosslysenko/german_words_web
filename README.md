@@ -23,7 +23,7 @@ A web application for learning German words with features:
 ### The main tasks in the creation that have been accomplished:
 Accessible, distraction-free UI.
 Ability to study on different devices
-Constant accessibility to the resource (using free hosting on GitHub Pages)
+Constant accessibility to the resource (using free hosting on GitHub Pages) https://rosslysenko.github.io/german_words_web/
 Ability to save and transfer progress without using backend server (e.g. Firebase), cloud storage (Google Drive, Dropbox...)
 and without synchronization via social networks. Reasonable simplicity. Nothing but learning!
 
@@ -52,6 +52,8 @@ german_words_web/
 ```
 
 ### Setup:
+Have fun at https://rosslysenko.github.io/german_words_web/
+or
 1. Clone repository
 2. Open index.html in browser
 3. Start learning!
