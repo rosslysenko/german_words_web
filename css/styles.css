@@ -115,14 +115,14 @@ button:active {
     margin-bottom: 1.5rem;
 }
 
-#showTranslation {
+/* #showTranslation {
     background-color: #9c27b0;
     margin-top: 1rem;
 }
 
 #showTranslation:hover {
     background-color: #7B1FA2;
-}
+} */
 
 .buttons {
     display: flex;

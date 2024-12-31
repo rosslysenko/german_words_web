@@ -137,10 +137,6 @@ class UI {
         this.practiceModeBtn.addEventListener('click', () => this.showSection('practice'));
         this.difficultWordsBtn.addEventListener('click', () => this.showSection('difficult'));
 
-        document.getElementById('showTranslation').addEventListener('click', () => {
-            document.querySelector('.card-back').classList.remove('hidden');
-        });
-
         document.getElementById('nextWord').addEventListener('click', () => {
             const newIndex = (this.wordsManager.currentIndex + 1) % this.wordsManager.words.length;
             this.wordsManager.setCurrentIndex(newIndex); // Save the updated index
@@ -215,7 +211,7 @@ class UI {
         if (word) {
             document.getElementById('germanWord').textContent = word.german;
             document.getElementById('ukrainianWord').textContent = word.ukrainian;
-            document.querySelector('.card-back').classList.add('hidden');
+            document.querySelector('.card-back').classList.remove('hidden');
         }
     }
 
