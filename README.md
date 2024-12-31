@@ -24,7 +24,8 @@ A web application for learning German words with features:
 Accessible, distraction-free UI.
 Ability to study on different devices
 Constant accessibility to the resource (using free hosting on GitHub Pages)
-Ability to save and transfer progress without using backend server (e.g. Firebase), cloud storage (Google Drive, Dropbox...) and without synchronization via social networks. 
+Ability to save and transfer progress without using backend server (e.g. Firebase), cloud storage (Google Drive, Dropbox...)
+and without synchronization via social networks. Reasonable simplicity. Nothing but learning!
 
 ### Technologies:
 - HTML/CSS
