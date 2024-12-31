@@ -45,6 +45,11 @@ button {
     font-size: 1rem;
 }
 
+button.info-icon{
+    border: none;
+    padding: 0;
+}
+
 button:hover {
     background-color: #45a049;
     transform: translateY(-2px);
@@ -66,8 +71,8 @@ button:active {
     background-color: #007BFF;
     color: white;
     border: none;
-    width: 40px;
-    height: 40px;
+    width: 30px;
+    height: 30px;
     font-size: 20px;
     cursor: pointer;
     display: flex;
