@@ -83,7 +83,15 @@ class WordsManager {
       this.progress[wordId].total++;
       if (isCorrect) {
         this.progress[wordId].correct++;
-      }
+        
+      // Remove from difficult words if progress is sufficient
+      if ((this.progress[wordId].correct / this.progress[wordId].total) >= 0.8) {
+        this.difficultWords.delete(wordId);
+        localStorage.setItem('difficultWords', JSON.stringify([...this.difficultWords]));
+    }
+} else {
+    this.markAsDifficult(wordId); // Automatically add to difficult words on error
+}
       localStorage.setItem("progress", JSON.stringify(this.progress));
     }
   
